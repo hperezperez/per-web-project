@@ -1,18 +1,18 @@
 <!DOCTYPE html>
 <html>
-	<body background="pictures.jpg">
+	<body>
 		<h1>PERSONA 1</h1>
 		<h2> Susana  Lopez</h2>
 		<p> Age: 30</p>
 
 		<p> She is a house keeper for the Andaluz Hotel</p>
 		<p> She was born in Mexico but she now lives and work in Albuquerque since 2001</p>
-		<p> She is Married with three childrens. She likes Mexican products. SHe likes candies and every year
-			she organized a birthday party for each of his three kids. their ages are 4, 6 and 9 years old.</p>
+		<p> She is Married with three childrens. She likes Mexican products. SHe likes candies and every year</p>
+		<p>	she organized a birthday party for each of his three kids. their ages are 4, 6 and 9 years old.</p>
 		<p> She also send money back home to her mom in Mexico</p>
 
 
-		Goals:
+		<h3>Goals</h3>
 		<li>Send Money to Mexico</li>
 		<li> Buy mexican candy</li>
 		<li>BUy pinatas </li>
@@ -42,7 +42,46 @@
 		<p> He also send money to Mexico ocasonality </p>
 		<p> He does not have bank acount because he overdraft very often</p>
 		<h2> Goals</h2>
-		,<li>  buy a Cellular phone with good  data plan and good price</li>
+		<li>  buy a Cellular phone with good  data plan and good price</li>
 		<li>  Send Money to his relative in Guatemala</li>
 		<li>   Cash his payroll check</li>
+
+
+
+		<h1> Proposed Site Map</h1>
+		 	<p> My propose site will have 5 top-level pages total. It will no have sub-pages or sub-navigation.</p>
+						<li> Home Page</li>
+						<li> About store </li>
+						<li> Services</li>
+						<li> Products</li>
+						<li> Contact</li>
+
+		<h3>Home Page<h3>
+				<p> This page  will give a brief introduction to the store and his services.
+				    and products. It will feature 3 calls to action  that will direct  the user  to the
+					About Store, Services or Products page.</p>
+		<h3>About Store</h3>
+
+
+
+
+
+		<h3>Services</h3>
+
+
+
+
+
+
+	<h3> Contact</h3>
+
+
+
+
+
+
+	<h1> Proposed Features And Functionality</h1>
+
+
+ </body>
 </html>
