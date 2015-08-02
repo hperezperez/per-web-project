@@ -74,14 +74,22 @@
 
 
 	<h3> Contact</h3>
+	<p> The contact page wiil have all the contact info for the business and </p>
+				<p>like  physical address, phone number, email address, fax num</p>
+				<p> I will put links to  Twitter and facebook.</p>
 
 
 
 
 
 
-	<h1> Proposed Features And Functionality</h1>
-
-
- </body>
+	<h1> Proposed Features
+		And Functionality</h1>
+		<li>Contact form for the Store</li>
+		<li>Contact info and social media link to be  featured in the foother on all pages and  </li>
+		<li>In the Footer area on each page we will put a visible contact info</li>
+		<li>Services and Products pages with screenshots of projects, containig  details overlaid on the image</li>
+		<li>For all content pages,except for the home page, I will put top navigation bar</li>
+ 		<li> I will use Bootstrap to put Iconography</li>
+	</body>
 </html>
