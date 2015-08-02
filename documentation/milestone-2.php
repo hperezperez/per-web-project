@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<body>
-		<h1>PERSONA 1</h1>
+		<img src="documentation/persona1.jpg " >
 		<h2> Susana  Lopez</h2>
 		<p> Age: 30</p>
 
