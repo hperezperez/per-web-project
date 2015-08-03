@@ -1,21 +1,23 @@
 <!DOCTYPE html>
 <html>
 	<body>
-		<img src="persona1.jpg" alt="foto"
+		<img src="persona1.jpg"
+			  <p>  .</p>
 		<h2> Susana  Lopez</h2>
 		<p> Age: 30</p>
 
 		<p> She is a house keeper for the Andaluz Hotel</p>
 		<p> She was born in Mexico but she now lives and work in Albuquerque since 2001</p>
 		<p> She is Married with three childrens. She likes Mexican products. SHe likes candies and every year</p>
-		<p>	she organized a birthday party for each of his three kids. their ages are 4, 6 and 9 years old.</p>
-		<p> She also send money back home to her mom in Mexico</p>
-
+		<p>	she organized a birthday party for each one of his three kids. Their ages are 4, 6 and 9 years old.</p>
+		<p> She also send money back home to her relatives in Mexico.</p>
+		<h2> Technology</h2>
+		<p> She has I- pad mini with unlimited ata service 4g with verizon and and android phone</p>
 
 		<h3>Goals</h3>
 		<li>Send Money to Mexico</li>
 		<li> Buy mexican candy</li>
-		<li>BUy pinatas </li>
+		<li>Buy pinatas </li>
 		<h1>  USE CASE</h1>
 		<p> Susan Lopez has received a telephone call from her uncle in Mexico. </p>
 		<p> Her aunt is sick. So, she needs to sent money to Mexico. She wants a good exchange rate, </p>
@@ -25,33 +27,38 @@
 		<p> Susan  is watching the site on his tablet at the laundry room</p>
 		<p> She is using crome</p>
 		<p> She had a short break of 10 min. It is an outline of Susan's interactions  with the site:</p>
-      <li> 1. type the name of my web site.Clicks call to action that navigatesto the services Page</li>
+      <li> 1. type the name of my web site.Clicks call to action that   navigatesto the services Page</li>
 		<li> 2. views first to companies of 3in services gallery.  She finds aa good option </li>
 		<li> She goes to the "about Money transfer companies page via the main navigation in the header</li>
 		<li> 3. She looks carefully into "about MTC page" for about  two minutes</li>
 		<li>  she choose one company  because that companies pay in Walmart Mexico.</li>
 		<li> she stop and get the addres information and telephone number  of the store because</li>
 		<li> all money transfer tracssaction must to be cash in th physical store by law</li>
-	     <img src="persona2.jpg" heigth="340" width="350" border="0"
+	       <img src="diagrama1.jpg" height="400" width="1000" border="0"
+			<p> .</p>
+	       <img src="persona2.jpg" heigth="340" width="350" border="0"
 			<p>   </p>
-		<h2>  Joseph Martinez</h2>
+		<h2>  Peter Martinez</h2>
 		<p> Age  22</p>
 
 
 
-		<p>Joseph is a construction worker. He was born and raise in New mexico.  His father is mexican and his mother is Guatemalan</p>
+		<p>Peter is a construction worker. He was born and raise in New mexico.  His father is mexican and his mother is Guatemalan</p>
 		<p> HE needs a good phone and resistant  because he uses in his work.  He does not want to spent a lot  of money</p>
 		<p>  He needs a unlimited plan  talk and tex  with data for 40.ddls or 50 ddls </p>
-		<p> He also talk to Mexico with his uncle and nices</p>
-		<p> He also send money to Mexico ocasonality </p>
+		<p> He also talks to Mexico with his uncle and nices</p>
+		<p> He also sends money to Mexico ocasonality </p>
 		<p> He does not have bank acount because he overdraft very often</p>
+
+		<h2> Technology</h2>
+		 <p> He has a destop computer with windows 7 and cell phone Lg Optimus android with limited memoty</p>
 		<h2> Goals</h2>
 		    <li>  buy a Cellular phone with good  data plan and good price</li>
 		    <li>  Send Money to his relative in Guatemala</li>
 		    <li>   Cash his payroll check</li>
 		<h1> Use case 2</h1>
 
-		<P> Joshep Martinez was  working on the roof of a house  when his cell falls  and breaks.
+		<P> Peter Martinez was  working on the roof of a house  when his cell falls  and breaks.
 		 This happend around three pm. He needs to find a good deal in phone and service because his
 		 boss call him several  times during the day. He also travels around the country .So  he needs a reliable
 		service. He is not a tech guru.He only have 3 min  because he needs to finish his work. His coworker has   cell phone. He use that phone to go intothe web
@@ -60,9 +67,9 @@
 		<li> 2.-He looks and find a medium price phone with a good plan</li>
 		<li> 3.-He goes to page information and call the store. then after work he goes to buy the phone
 		  goes to page information and call the store. then after work he goes to buy the phone</li>
-		<img src="diagrama2.jpg"
+		<img src="diagrama2.jpg" height="400" width="1000" border="0"
 
-
+		<p> .</p>
 		<h1> Proposed Site Map</h1>
 		 	<p> My propose site will have 5 top-level pages total. It will no have sub-pages or sub-navigation.</p>
 						<li> Home Page</li>
