@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<body>
-		<img src="documentation/persona1.jpg " >
+		<img src="persona1.jpg" alt="foto"
 		<h2> Susana  Lopez</h2>
 		<p> Age: 30</p>
 
@@ -32,8 +32,12 @@
 		<li>  she choose one company  because that companies pay in Walmart Mexico.</li>
 		<li> she stop and get the addres information and telephone number  of the store because</li>
 		<li> all money transfer tracssaction must to be cash in th physical store by law</li>
-			<h2>  Joseph Martinez</h2>
+	     <img src="persona2.jpg" heigth="340" width="350" border="0"
+			<p>   </p>
+		<h2>  Joseph Martinez</h2>
 		<p> Age  22</p>
+
+
 
 		<p>Joseph is a construction worker. He was born and raise in New mexico.  His father is mexican and his mother is Guatemalan</p>
 		<p> HE needs a good phone and resistant  because he uses in his work.  He does not want to spent a lot  of money</p>
@@ -42,10 +46,21 @@
 		<p> He also send money to Mexico ocasonality </p>
 		<p> He does not have bank acount because he overdraft very often</p>
 		<h2> Goals</h2>
-		<li>  buy a Cellular phone with good  data plan and good price</li>
-		<li>  Send Money to his relative in Guatemala</li>
-		<li>   Cash his payroll check</li>
+		    <li>  buy a Cellular phone with good  data plan and good price</li>
+		    <li>  Send Money to his relative in Guatemala</li>
+		    <li>   Cash his payroll check</li>
+		<h1> Use case 2</h1>
 
+		<P> Joshep Martinez was  working on the roof of a house  when his cell falls  and breaks.
+		 This happend around three pm. He needs to find a good deal in phone and service because his
+		 boss call him several  times during the day. He also travels around the country .So  he needs a reliable
+		service. He is not a tech guru.He only have 3 min  because he needs to finish his work. His coworker has   cell phone. He use that phone to go intothe web
+		page of Arriba Mexico.</p>
+		<li> 1.-From the home page he choosee to go product page.</li>
+		<li> 2.-He looks and find a medium price phone with a good plan</li>
+		<li> 3.-He goes to page information and call the store. then after work he goes to buy the phone
+		  goes to page information and call the store. then after work he goes to buy the phone</li>
+		<img src="diagrama2.jpg"
 
 
 		<h1> Proposed Site Map</h1>
@@ -56,24 +71,29 @@
 						<li> Products</li>
 						<li> Contact</li>
 
-		<h3>Home Page<h3>
-				<p> This page  will give a brief introduction to the store and his services.
+ 				<p> This page  will give a brief introduction to the store and his services.
 				    and products. It will feature 3 calls to action  that will direct  the user  to the
 					About Store, Services or Products page.</p>
 		<h3>About Store</h3>
-
-
-
-
+				<p>Arriba Mexico is a general store.In this page you will find:</p>
+				<li>brief history about the store.</li>
+				<li>The products y services that Arriba Mexico provided</li>
+				<li> the advantages of shopping with us etc,</li>
 
 		<h3>Services</h3>
+				<p> In this page you will find :</p>
+				<li> 8 examples of the services that the store provide to customer,like:</li>
+				<li>  cashing checks,money transfers, billpayments, etc</li>
+				<li>  I want  to add videos and pictures . If it is posiblle to make a reponsible img gallery</li>
+
+		<h3> Products</h3>
+				<p> In this page you will find:</p>
+					<li> 12-14 examples of prducts that the store offers to the public like:</li>
+					<li> mexican candies, pinatas, celular phones etc. </li>
+					<li> each example will have a simple description ,price and picture. I want reponsive img gallery</li>
 
 
-
-
-
-
-	<h3> Contact</h3>
+		<h3> Contact</h3>
 	<p> The contact page wiil have all the contact info for the business and </p>
 				<p>like  physical address, phone number, email address, fax num</p>
 				<p> I will put links to  Twitter and facebook.</p>
