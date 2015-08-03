@@ -12,8 +12,10 @@
 		<p>	she organized a birthday party for each one of his three kids. Their ages are 4, 6 and 9 years old.</p>
 		<p> She also send money back home to her relatives in Mexico.</p>
 		<h2> Technology</h2>
-		<p> She has I- pad mini with unlimited ata service 4g with verizon and and android phone</p>
-
+		<p> She has I- pad mini with unlimited data service 4g with verizon and and android phone</p>
+		 <h2> Frustractions and Needs</h2>
+		<p> She is a busy person because she has three kids and She is a working mom. she likes to find the rigth product.
+		 She needs a good company to send money to Mexico. And A store with a good selction of pinatas and candie</p>
 		<h3>Goals</h3>
 		<li>Send Money to Mexico</li>
 		<li> Buy mexican candy</li>
@@ -29,7 +31,7 @@
 		<p> She had a short break of 10 min. It is an outline of Susan's interactions  with the site:</p>
       <li> 1. type the name of my web site.Clicks call to action that   navigatesto the services Page</li>
 		<li> 2. views first to companies of 3in services gallery.  She finds aa good option </li>
-		<li> She goes to the "about Money transfer companies page via the main navigation in the header</li>
+		<li> She goes to the contact  page via the main navigation in the header</li>
 		<li> 3. She looks carefully into "about MTC page" for about  two minutes</li>
 		<li>  she choose one company  because that companies pay in Walmart Mexico.</li>
 		<li> she stop and get the addres information and telephone number  of the store because</li>
@@ -51,7 +53,13 @@
 		<p> He does not have bank acount because he overdraft very often</p>
 
 		<h2> Technology</h2>
-		 <p> He has a destop computer with windows 7 and cell phone Lg Optimus android with limited memoty</p>
+		 <p> He has a desktop computer with windows 7 and cell phone Lg Optimus android with limited memoty</p>
+
+		<h2> Frustrations and needs</h2>
+		<p.> He is a young guy . He likes good phones but he has limited budget. That is one of his frustration
+		     He also does not have a lot of extra money to send to his relatives for that reason he needsa
+		 good store tthat provide all the services that he needs at good price</p.>
+
 		<h2> Goals</h2>
 		    <li>  buy a Cellular phone with good  data plan and good price</li>
 		    <li>  Send Money to his relative in Guatemala</li>
