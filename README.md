@@ -30,5 +30,5 @@ Simplify your content by 50% for the sake of MVP, since time is a major constrai
 - Place translate button at the top in the navbar
 - Re-organize your directory structure to reflect the suggested architecture outlined in Milestone 1
 - familiarize yourself with [PHP Gettext](http://php.net/manual/en/book.gettext.php)
-- Commit and Push all changes to GitHub early and often. This is where Dyaln and I evaluate all projects and code.
+- Commit and Push all changes to GitHub early and often. This is where Dylan and I evaluate all projects and code.
 
