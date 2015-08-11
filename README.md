@@ -17,3 +17,18 @@ I see you've made considerable improvements in your HTML code since Milestone 1.
 2. Beware of incomplete, empty, and missing closing tags in your HTML. See lines 4, 5, 59, 61, 78, 79.
 3. All &lt;li&gt; tags must be enclosed inside a &lt;ul&gt; or &lt;ol&gt;. See the example code on [MDN]("https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul").
 4. Please clean up all grammar and spelling mistakes going forward.
+
+###Milestone 3 Feedback
+First thing, I am not seeing your current project code on GitHub. Have all recent changes been commited and pushed?
+
+Good job on the wireframes. This layout should work well using Bootstrap, so become very familiar with the way the [Bootstrap Grid System](http://getbootstrap.com/css/#grid-example-basic) works.
+Simplify your content by 50% for the sake of MVP, since time is a major constraint. Your Milestone 3 passes at Tier III.
+ 
+##Suggestions
+- Simplify features and layout by 50%
+- Keep design of the layout clean and simple
+- Place translate button at the top in the navbar
+- Re-organize your directory structure to reflect the suggested architecture outlined in Milestone 1
+- familiarize yourself with [PHP Gettext](http://php.net/manual/en/book.gettext.php)
+- Commit and Push all changes to GitHub early and often. This is where Dyaln and I evaluate all projects and code.
+
