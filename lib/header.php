@@ -9,7 +9,7 @@
 			</a>
 		</div>
 		<div class="col-md-3">
-			<input class="search" type="search" placeholder="Search in Albuquerque"/>
+			<input class="search" type="search" placeholder="Productos y servicios"/>
 		</div>
 		<div class="col-md-6">
 			<ul class="nav nav-pills pull-right">

@@ -17,9 +17,9 @@
 		<p> She is a busy person because she has three kids and She is a working mom. she likes to find the rigth product.
 		 She needs a good company to send money to Mexico. And A store with a good selction of pinatas and candie</p>
 		<h3>Goals</h3>
-		<li>Send Money to Mexico</li>
-		<li> Buy mexican candy</li>
-		<li>Buy pinatas </li>
+			<li>Send Money to Mexico</li>
+			<li> Buy mexican candy</li>
+			<li>Buy pinatas </li>
 		<h1>  USE CASE</h1>
 		<p> Susan Lopez has received a telephone call from her uncle in Mexico. </p>
 		<p> Her aunt is sick. So, she needs to sent money to Mexico. She wants a good exchange rate, </p>
