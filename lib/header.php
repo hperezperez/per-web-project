@@ -3,8 +3,8 @@
 		<div class="col-md-3">
 			<a class="home-link" href=".">
 				<span class=" title">
-				<img class="logo" src="images/fork.svg" alt="TruFork Logo"/>
-				TruFork
+				<img class="logo" src="images/bandera.jpg" alt="Arriba Mexico Logo"/>
+				Arriba Mexico
 				</span>
 			</a>
 		</div>
@@ -14,8 +14,8 @@
 		<div class="col-md-6">
 			<ul class="nav nav-pills pull-right">
 				<li role="presentation"><a href="#">Login/Register</a></li>
-				<li role="presentation"><a href="epic/epic.php">Epic</a></li>
-				<li role="presentation"><a href="epic/epic-addendum.php">Addendum</a></li>
+				<li role="presentation"><a href="epic/epic.php">Products and Services</a></li>
+				<li role="presentation"><a href="epic/epic-addendum.php">About Arriba Mexico</a></li>
 			</ul>
 		</div>
 	</div>
