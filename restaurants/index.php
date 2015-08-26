@@ -7,6 +7,7 @@ require_once("../lib/head-utils.php");
 	<div class="sfooter-content">
 		<header>
 			<?php require_once("../lib/header.php"); ?>
+			<?php require_once("../lib/celulares.php"); ?>
 		</header>
 		<?php require_once("../lib/products.php"); ?>
 		<p> celulares</p>

@@ -1,8 +1,10 @@
+<! DOCTYPE html>
+  <html lang="en>"
  <section>
 	 <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
 		 <div class="row">
 			  <div class="hidden-xs col-sm-3 col-md-6 col-lg-6">
-				  <img src="images/celulares.jpg" class="img-responsible">
+				  <img src="../images/galaxy4.jpg" class="img-responsible">
 			  </div>
 			  <div class="col-xs-12 col-sm-9 col-md-6 col-lg-6">
 				  <h3>I-phone 6</h3>
@@ -13,7 +15,7 @@
 	 <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
 		 <div class="row">
 			 <div class="hidden-xs col-sm-3 col-md-6 col-lg-6">
-				 <img src="images/celulares.jpg" class="img-responsible">
+				 <img src="../images/Iphone6.jpg" class="img-responsible">
 			 </div>
 			 <div class="col-xs-12 col-sm-9 col-md-6 col-lg-6">
 				 <h3>I-phone 6</h3>
@@ -24,7 +26,7 @@
 	 <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
 		 <div class="row">
 			 <div class="hidden-xs col-sm-3 col-md-6 col-lg-6">
-				 <img src="images/celulares.jpg" class="img-responsible">
+				 <img src="../images/Iphone6s.jpg " class="img-responsible">
 			 </div>
 			 <div class="col-xs-12 col-sm-9 col-md-6 col-lg-6">
 				<html><h3>I-phone5</h3></html>
@@ -33,3 +35,4 @@
 		 </div>
 	 </div>
  </section>
+</html>
