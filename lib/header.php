@@ -14,8 +14,8 @@
 		<div class="col-md-6">
 			<ul class="nav nav-pills pull-right">
 				<li role="presentation"><a href="#">Login/Register</a></li>
-				<li role="presentation"><a href="products/index.php">Products and Services</a></li>
-				<li role="presentation"><a href="epic/epic-addendum.php">About Arriba Mexico</a></li>
+				<li role="presentation"><a href="/products">Products and Services</a></li>
+				<li role="presentation"><a href="/">About Arriba Mexico</a></li>
 			</ul>
 		</div>
 	</div>

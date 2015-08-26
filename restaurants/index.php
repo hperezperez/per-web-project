@@ -9,7 +9,7 @@ require_once("../lib/head-utils.php");
 			<?php require_once("../lib/header.php"); ?>
 			<?php require_once("../lib/celulares.php"); ?>
 		</header>
-		<?php require_once("../lib/products.php"); ?>
+		<?php require_once("../lib/prod.php"); ?>
 		<p> celulares</p>
 		<?php require_once("../lib/celulares.php"); ?>
 	</div>
