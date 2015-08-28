@@ -108,6 +108,7 @@ header {
 		font-weight: 200;
 		font-size: 7em;
 		text-align: center;
+		color: #fff;
 	}
 
 	.main-search {
@@ -132,7 +133,7 @@ header {
 }
 
 .main-text {
-	color: #FFFFFF;
+
 }
 
 .main-search:focus {
@@ -454,7 +455,18 @@ body {
 
 .sfooter-content {
 	flex: 1 0 auto;
-
-	background: url(../images/bg.jpg) no-repeat center center fixed;
+	background: url("/images/celulares.jpg") no-repeat center center fixed;
 	background-size: cover;
+}
+
+.main-text {
+	padding-bottom: 100px;
+}
+
+/********************************************
+ * Search Box Styles
+ ********************************************/
+#___gcse_0 > div.gsc-control-cse {
+	background-color: transparent !important;
+	border-color: transparent !important;
 }

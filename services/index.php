@@ -92,7 +92,7 @@
 					<div class="row">
 						<div class="col-xs-12 col-sm-6 col-md-3">
 							<div class="thumbnail">
-								<img src="http://placehold.it/350/E8117F/ffffff?text=placehold.it" alt="product item"/>
+								<img src="../images/sigue.pjg" alt="product item"/>
 								<div class="caption">
 									<h4>Product Title</h4>
 									<p>Flexitarian pug fashion axe, beard direct trade sartorial Schlitz typewriter butcher taxidermy cold-pressed actually messenger bag aesthetic quinoa.</p>

@@ -5,3 +5,7 @@
 function popUp() {
 	document.getElementById("signUp").style.display = "block";
 }
+
+$(document).ready(function(){
+
+});
