@@ -92,10 +92,10 @@
 					<div class="row">
 						<div class="col-xs-12 col-sm-6 col-md-3">
 							<div class="thumbnail">
-								<img src="http://placehold.it/350/E8117F/ffffff?text=placehold.it" alt="product item"/>
+								<img src="../images/galaxy5.jpg" alt="product item"  style="width:210px; height:245px;"/>
 								<div class="caption">
-									<h4>Product Title</h4>
-									<p>Flexitarian pug fashion axe, beard direct trade sartorial Schlitz typewriter butcher taxidermy cold-pressed actually messenger bag aesthetic quinoa.</p>
+									<h4>Samsung Galaxy 5</h4>
+									<p>We offer the best price. Unlock phone. our price 449.00. Available colors white,blu and blac.</p>
 								</div>
 							</div>
 						</div>
@@ -103,8 +103,8 @@
 							<div class="thumbnail">
 								<img src="../images/galaxy4.jpg" alt="product item"/>
 								<div class="caption">
-									<h4>Product Title</h4>
-									<p>Flexitarian pug fashion axe, beard direct trade sartorial Schlitz typewriter butcher taxidermy cold-pressed actually messenger bag aesthetic quinoa.</p>
+									<h4>Samsung Galaxy 4</h4>
+									<p> Limited time only. Free month of service for Simple mobile. Our price 299.00.</p>
 								</div>
 							</div>
 						</div>
@@ -112,17 +112,17 @@
 							<div class="thumbnail">
 								<img src="../images/galaxy4.jpg" alt="product item"/>
 								<div class="caption">
-									<h4>Product Title</h4>
-									<p>Flexitarian pug fashion axe, beard direct trade sartorial Schlitz typewriter butcher taxidermy cold-pressed actually messenger bag aesthetic quinoa.</p>
+									<h4>Samsung Galaxy 4</h4>
+									<p>limited time only. Free month of service with Boost Mobile. Our price 289.00.</p>
 								</div>
 							</div>
 						</div>
 						<div class="col-xs-12 col-sm-6 col-md-3">
 							<div class="thumbnail">
-								<img src="http://placehold.it/350/E8117F/ffffff?text=placehold.it" alt="product item"/>
+								<img src="../images/I-phone4.jpg" alt="product item"/>
 								<div class="caption">
-									<h4>Product Title</h4>
-									<p>Flexitarian pug fashion axe, beard direct trade sartorial Schlitz typewriter butcher taxidermy cold-pressed actually messenger bag aesthetic quinoa.</p>
+									<h4>I-Phone 4</h4>
+									<p> The best deal ever. 32 GB. Our lowest price 149.00. One month of service with Page Plus.</p>
 								</div>
 							</div>
 						</div>
@@ -132,24 +132,25 @@
 					<!-- begin layout example 2 -->
 					<!-- uses custom classes    -->
 					<!-- ====================== -->
-					<h3>Item Layout Example v2</h3>
+					<h3>Mexican Products </h3>
 					<div class="row">
 						<div class="col-xs-12 col-md-6">
 							<div class="thumbnail item-horiz">
-								<img src="../images/moneytranfers.jpg" alt="product item"/>
+								<img src="../images/mexcandies.jpg" alt="product item"/>
 								<div class="caption">
-									<h4>Product Title</h4>
-									<p>Flexitarian pug fashion axe, beard direct trade sartorial Schlitz typewriter butcher taxidermy cold-pressed actually messenger bag aesthetic quinoa.</p>
+									<h4>Authentic Mexican Products</h4>
+									<p>The best Mexican candies. Always fresh.The best Prices. Whole Sale and Retail.</p>
 								</div>
 								<div class="clearfix"></div>
 							</div>
 						</div>
 						<div class="col-xs-12 col-md-6">
 							<div class="thumbnail item-horiz">
-								<img src="../images/cashingcheck.jpg" alt="product item"/>
+								<img src="../images/mural-jarritos.jpg" alt="product item" style="width:545px; heigth:720px;"/>
 								<div class="caption">
-									<h4>Product Title</h4>
-									<p>Flexitarian pug fashion axe, beard direct trade sartorial Schlitz typewriter butcher taxidermy cold-pressed actually messenger bag aesthetic quinoa.</p>
+									<h4> Refrescos Mexicanos</h4>
+									<p> The Mexican refresco is the best in the world. Made with real suger.We sell Manzanita Sol, Sidral Mundet, Fresca,Jarritos, Coconut water and more.
+									 Our price 22.00 dollars case.Special prices for restaurnts and mobile food vendors. Call in advance to prepare your order</p>
 								</div>
 								<div class="clearfix"></div>
 							</div>

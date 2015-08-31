@@ -38,7 +38,7 @@
 		<script type="text/javascript" src="lib/js/scripts.js"></script>
 
 		<!-- Page Title -->
-		<title>Services of Arriba Mexico</title>
+		<title>About Arriba Mexico</title>
 	</head>
 	<body class="site">
 		<div class="site-content">
@@ -77,8 +77,8 @@
 				<!--I put the welcome message on top - full width-->
 				<div class="row welcome-msg">
 					<div class="col-xs-12">
-						<h2>Services</h2>
-						<p>We offer Money transfer, Bill Pay and Cashing checeks services. We are agents of Enramex, AFEX.  .viral messenger bag Pinterest, artisan YOLO selfies pug ugh. Tote bag selvage skateboard kale chips. Skateboard polaroid typewriter, cold-pressed Helvetica tousled roof party retro butcher crucifix pop-up salvia. Brooklyn cold-pressed whatever sartorial, butcher skateboard deep v pug typewriter four dollar toast actually flexitarian beard heirloom organic. Health goth wolf wayfarers, quinoa cornhole Vice tattooed Carles selvage.</p>
+						<h2>About Us</h2>
+						<p>We offer the best cellular phones at the best price. Craft beer +1 selvage, artisan occupy Etsy health goth mumblecore YOLO heirloom wayfarers slow-carb chambray fingerstache. Health goth synth viral messenger bag Pinterest, artisan YOLO selfies pug ugh. Tote bag selvage skateboard kale chips. Skateboard polaroid typewriter, cold-pressed Helvetica tousled roof party retro butcher crucifix pop-up salvia. Brooklyn cold-pressed whatever sartorial, butcher skateboard deep v pug typewriter four dollar toast actually flexitarian beard heirloom organic. Health goth wolf wayfarers, quinoa cornhole Vice tattooed Carles selvage.</p>
 						<p>See <a href="http://getbootstrap.com/components/#thumbnails-custom-content" target="_blank">Bootstrap Images Custom Content</a> documentation for reference on this layout.</p>
 					</div>
 				</div>
@@ -92,37 +92,37 @@
 					<div class="row">
 						<div class="col-xs-12 col-sm-6 col-md-3">
 							<div class="thumbnail">
-								<img src="../images/moneygram.jpg" alt="product item"  style="width:240px; height:250px;"/>
+								<img src="../images/galaxy5.jpg" alt="product item"  style="width:210px; height:245px;"/>
 								<div class="caption">
-									<h4>Money Transfers Services</h4>
-									<p>Arriba Mexico offers money transfer services worlwide incluing US and Mexico. We are approved by the State Deparment. </p>
+									<h4>Samsung Galaxy 5</h4>
+									<p>We offer the best price. Unlock phone. our price 449.00. Available colors white,blu and blac.</p>
 								</div>
 							</div>
 						</div>
 						<div class="col-xs-12 col-sm-6 col-md-3">
 							<div class="thumbnail">
-								<img src="../images/ria.jpg" alt="product item"  style="width:180px; height:250px;"/>
+								<img src="../images/galaxy4.jpg" alt="product item"/>
 								<div class="caption">
-									<h4>Cashing checks</h4>
-									<p> Le ofrecemos el servio de cambio de cheques al 2% butcher taxidermy cold-pressed actually messenger bag aesthetic quinoa.</p>
+									<h4>Samsung Galaxy 4</h4>
+									<p> Limited time only. Free month of service for Simple mobile. Our price 299.00.</p>
 								</div>
 							</div>
 						</div>
 						<div class="col-xs-12 col-sm-6 col-md-3">
 							<div class="thumbnail">
-								<img src="../images/t-mobile-logo.jpg" alt="product item" style="width:210px; height:270px;"/>
+								<img src="../images/galaxy4.jpg" alt="product item"/>
 								<div class="caption">
-								<h4>Cellular Services</h4>
-									<p>We offer cellular services with the best plans. 50  dlls plan with Unlimitedd talk and texts.</p>
+									<h4>Samsung Galaxy 4</h4>
+									<p>limited time only. Free month of service with Boost Mobile. Our price 289.00.</p>
 								</div>
 							</div>
 						</div>
 						<div class="col-xs-12 col-sm-6 col-md-3">
 							<div class="thumbnail">
-								<img src="../images/verizon-wireless-logo.jpg" alt="product item" style="width:220px; height:270px;" />
+								<img src="../images/I-phone4.jpg" alt="product item"/>
 								<div class="caption">
-									<h4>Cellular Services</h4>
-									<p>We offer the best network in US.4G LTE unlimited  talk and tex for  40 dlls throug Page Plus.</p>
+									<h4>I-Phone 4</h4>
+									<p> The best deal ever. 32 GB. Our lowest price 149.00. One month of service with Page Plus.</p>
 								</div>
 							</div>
 						</div>
@@ -132,27 +132,25 @@
 					<!-- begin layout example 2 -->
 					<!-- uses custom classes    -->
 					<!-- ====================== -->
-					<h3>Item Layout Example v2
-					<div class="row"></h3>						<div class="col-xs-12 col-md-6">
-
+					<h3>Mexican Products </h3>
+					<div class="row">
+						<div class="col-xs-12 col-md-6">
 							<div class="thumbnail item-horiz">
-								<img src="../images/moneytranfers.jpg" alt="product item"/>
+								<img src="../images/mexcandies.jpg" alt="product item"/>
 								<div class="caption">
-									<h4>Finantial services</h4>
-									<p>Arriba Mexico provides Money Bussiness Services.We have 20 twenty years experience.We are register with FINCEN,Finantial crime
-										enforment network of IRS.And we are approved by the State Department.</p>
+									<h4>Authentic Mexican Products</h4>
+									<p>The best Mexican candies. Always fresh.The best Prices. Whole Sale and Retail.</p>
 								</div>
 								<div class="clearfix"></div>
 							</div>
 						</div>
 						<div class="col-xs-12 col-md-6">
 							<div class="thumbnail item-horiz">
-								<img src="../images/promotioncell.jpg" alt="product item"/>
+								<img src="../images/mural-jarritos.jpg" alt="product item" style="width:545px; heigth:720px;"/>
 								<div class="caption">
-									<h4>Change service to one of our carriers</h4>
-									<p> We have the best prepaid plans. No contract. The Best prices  and Plans.</p>
-									<h3> YOU CAN USE YOUR SAME DEVICE</h3>
-									<h2> Even more FREE PHONE.</h2>
+									<h4> Refrescos Mexicanos</h4>
+									<p> The Mexican refresco is the best in the world. Made with real suger.We sell Manzanita Sol, Sidral Mundet, Fresca,Jarritos, Coconut water and more.
+										Our price 22.00 dollars case.Special prices for restaurnts and mobile food vendors. Call in advance to prepare your order</p>
 								</div>
 								<div class="clearfix"></div>
 							</div>

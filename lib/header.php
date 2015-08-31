@@ -13,9 +13,9 @@
 		</div>
 		<div class="col-md-6">
 			<ul class="nav nav-pills pull-right">
-				<li role="presentation"><a href="#">Login/Register</a></li>
-				<li role="presentation"><a href="/products">Products and Services</a></li>
-				<li role="presentation"><a href="/">About Arriba Mexico</a></li>
+				<li role="presentation"><a href="/services">Services</a></li>
+				<li role="presentation"><a href="/products">Products</a></li>
+				<li role="presentation"><a href="/aboutus">About Arriba Mexico</a></li>
 			</ul>
 		</div>
 	</div>
