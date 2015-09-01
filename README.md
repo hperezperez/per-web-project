@@ -32,3 +32,11 @@ Simplify your content by 50% for the sake of MVP, since time is a major constrai
 - familiarize yourself with [PHP Gettext](http://php.net/manual/en/book.gettext.php)
 - Commit and Push all changes to GitHub early and often. This is where Dylan and I evaluate all projects and code.
 
+###Milestone 4 Feedback
+- Great job so far. Let's bring in the header and footer onto the other pages using require_once();
+- Let's hide the navbar search inside a dropdown, that will make things look cleaner
+- Work on making the navigation mobile friendly. This can be done using the Bootstrap navbar.
+- Clean up the typos in the content
+- Consider editing images to be more consistent in size. Also, take a look at the flexbox code I put up on github that ensures the item thumbnails stay the same size.
+- Swapping out the background image on the home page for a better one will make a big difference too.
+
