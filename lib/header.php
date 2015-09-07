@@ -9,10 +9,11 @@
 			</a>
 		</div>
 		<div class="col-md-3">
-			<input class="search" type="search" placeholder="Productos y servicios"/>
+
 		</div>
 		<div class="col-md-6">
 			<ul class="nav nav-pills pull-right">
+				<li role="presentation"><a href="/profile">Espanol</a> </li>
 				<li role="presentation"><a href="/services">Services</a></li>
 				<li role="presentation"><a href="/products">Products</a></li>
 				<li role="presentation"><a href="/aboutus">About Arriba Mexico</a></li>

@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<meta charset="utf-8"/>
+		<meta charset="utf-8"/>mmm,
 		<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
 		<meta name="viewport" content="width=device-width, initial-scale=1"/>
 
@@ -12,11 +12,11 @@
 		<!-- Optional Bootstrap theme -->
 		<link type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css" rel="stylesheet"/>
 
-		<!-- Font Awesome http://fontawesome.github.io/Font-Awesome/ -->
+		<!-- Font Awesome http://fontawesome.github.io/Font-Awesome/ -->3
 		<link type="text/css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet"/>
 
 		<!-- Custom CSS @author:rlewis37@cnm.edu -->
-		<link type="text/css" href="lib/css/style.css" rel="stylesheet"/>
+		<link type="text/css" href="../css/style.css" rel="stylesheet"/>
 
 		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -35,7 +35,7 @@
 		<script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 
 		<!-- Custom JavaScript @author:rlewis37@cnm.edu -->
-		<script type="text/javascript" src="lib/js/scripts.js"></script>
+		<script type="text/javascript" src="../js/javascript.js"></script>
 
 		<!-- Page Title -->
 		<title>Products of Arriba Mexico</title>
@@ -44,7 +44,7 @@
 		<div class="site-content">
 			<!--include the <head> tag-->
 
-			<!--include <header> tag-->
+    			<!--include <header> tag-->
 			<header>
 				<div class="container">
 					<nav class="navbar">
@@ -58,16 +58,16 @@
 								<span class="glyphicon glyphicon-menu-hamburger"></span>
 							</button>
 
-							<a class="navbar-brand" href="#">TianguisMexico.com</a>
+							<a class="navbar-brand" href="#">TianguisMexicano.com</a>
 						</div>
 
 						<!-- here are your main nav links, grouped for toggling -->
 						<div class="collapse navbar-collapse" id="main-menu">
 							<ul class="nav navbar-nav navbar-right">
-								<li><a href="#">Home</a></li>
-								<li><a href="#">Products</a></li>
-								<li><a href="#">Services</a></li>
-								<li><a href="#">About Us</a></li>
+								<li><a href="../index.php">Home</a></li>
+								<li><a href="../products">Products</a></li>
+								<li><a href="../services">Services</a></li>
+								<li><a href="../aboutus">About Us</a></li>
 							</ul>
 						</div>
 					</nav>
@@ -78,8 +78,8 @@
 				<div class="row welcome-msg">
 					<div class="col-xs-12">
 						<h2>Products</h2>
-						<p>We offer the best cellular phones at the best price. Craft beer +1 selvage, artisan occupy Etsy health goth mumblecore YOLO heirloom wayfarers slow-carb chambray fingerstache. Health goth synth viral messenger bag Pinterest, artisan YOLO selfies pug ugh. Tote bag selvage skateboard kale chips. Skateboard polaroid typewriter, cold-pressed Helvetica tousled roof party retro butcher crucifix pop-up salvia. Brooklyn cold-pressed whatever sartorial, butcher skateboard deep v pug typewriter four dollar toast actually flexitarian beard heirloom organic. Health goth wolf wayfarers, quinoa cornhole Vice tattooed Carles selvage.</p>
-						<p>See <a href="http://getbootstrap.com/components/#thumbnails-custom-content" target="_blank">Bootstrap Images Custom Content</a> documentation for reference on this layout.</p>
+						<p>We offer the best cellular phones at the best price. Also, we offer a great variety of Mexican Products, candies, pinatas, herbs. Mexican arts and crafts. Wicth craft products. </p>
+						<p>See <a href="http://t-mobile.com" target="_blank">T-mobile web page </a> to find plans and prices</p>
 					</div>
 				</div>
 				<hr>
@@ -88,14 +88,14 @@
 					<!-- ====================== -->
 					<!-- begin layout example 1 -->
 					<!-- ====================== -->
-					<h3>Item Layout Example v1</h3>
-					<div class="row">
+					<h3>Cellular Products</h3>
+					<div class="row row-flex row-flex-wrap">
 						<div class="col-xs-12 col-sm-6 col-md-3">
 							<div class="thumbnail">
 								<img src="../images/galaxy5.jpg" alt="product item"  style="width:210px; height:245px;"/>
 								<div class="caption">
 									<h4>Samsung Galaxy 5</h4>
-									<p>We offer the best price. Unlock phone. our price 449.00. Available colors white,blu and blac.</p>
+			 						<p>We offer the best price. Unlock phone. our price 449.00. Available colors white,blue and black.</p>
 								</div>
 							</div>
 						</div>
@@ -104,7 +104,7 @@
 								<img src="../images/galaxy4.jpg" alt="product item"/>
 								<div class="caption">
 									<h4>Samsung Galaxy 4</h4>
-									<p> Limited time only. Free month of service for Simple mobile. Our price 299.00.</p>
+									<p> Limited time offer. Free month of service for Simple mobile. Our price 299.00.</p>
 								</div>
 							</div>
 						</div>
@@ -113,7 +113,7 @@
 								<img src="../images/galaxy4.jpg" alt="product item"/>
 								<div class="caption">
 									<h4>Samsung Galaxy 4</h4>
-									<p>limited time only. Free month of service with Boost Mobile. Our price 289.00.</p>
+									<p>Limited time offer. Free month of service with Boost Mobile. Our price 289.00.</p>
 								</div>
 							</div>
 						</div>
@@ -150,7 +150,7 @@
 								<div class="caption">
 									<h4> Refrescos Mexicanos</h4>
 									<p> The Mexican refresco is the best in the world. Made with real suger.We sell Manzanita Sol, Sidral Mundet, Fresca,Jarritos, Coconut water and more.
-									 Our price 22.00 dollars case.Special prices for restaurnts and mobile food vendors. Call in advance to prepare your order</p>
+									 Our price 22.00 dollars case.Special prices for restaurants and mobile food vendors. Call in advance to prepare your order</p>
 								</div>
 								<div class="clearfix"></div>
 							</div>
@@ -164,7 +164,7 @@
 		<!--footer include-->
 		<footer class="footer">
 			<div class="container">
-				Footer Here
+					<?php require_once(dirname(__DIR__) . "/lib/footer.php"); ?>
 			</div>
 		</footer>
 	</body>

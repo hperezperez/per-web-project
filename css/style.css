@@ -506,3 +506,27 @@ td#gs_tti50.gsib_a {
 	background-color: transparent !important;
 	border-color: transparent !important;
 }
+/********************************************
+* Bootstrap Flexbox
+* Equal height item boxes using Flexbox
+********************************************/
+.thumbnail {
+	width: 100%;
+}
+
+.row-flex {
+	display: flex;
+	flex: 1 1 auto;
+}
+
+.row-flex-wrap {
+	-webkit-flex-flow: row wrap;
+	align-content: flex-start;
+	flex: 0;
+}
+
+.row-flex > div[class*="col-"] {
+	display: flex;
+	flex: 1 1 auto;
+	margin: -.2px;
+}

@@ -7,14 +7,14 @@ require_once("lib/head-utils.php");
 	<div class="sfooter-content">
 		<header>
 			<?php require_once("lib/header.php"); ?>
-		</header>
-		<div class="main-text">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-12">
+	   </header>
+			<div class="main-text">
+				<div class="container">
+					<div class="row">
+					 <div class="col-md-12">
 						<h1 class="search-main-h1">The Best Mexican Products.</h1>
-					</div>
-				</div>
+					 </div>
+				 </div>
 				<div class="row">
 					<div class="col-md-12">
 						<script>

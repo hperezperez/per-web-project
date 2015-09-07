@@ -16,7 +16,7 @@
 		<link type="text/css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet"/>
 
 		<!-- Custom CSS @author:rlewis37@cnm.edu -->
-		<link type="text/css" href="lib/css/style.css" rel="stylesheet"/>
+		<link type="text/css" href="../css/style.css" rel="stylesheet"/>
 
 		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -35,7 +35,7 @@
 		<script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 
 		<!-- Custom JavaScript @author:rlewis37@cnm.edu -->
-		<script type="text/javascript" src="lib/js/scripts.js"></script>
+		<script type="text/javascript" src="lib/js/javascripts.js"></script>
 
 		<!-- Page Title -->
 		<title>About Arriba Mexico</title>
@@ -64,9 +64,9 @@
 						<!-- here are your main nav links, grouped for toggling -->
 						<div class="collapse navbar-collapse" id="main-menu">
 							<ul class="nav navbar-nav navbar-right">
-								<li><a href="#">Home</a></li>
-								<li><a href="#">Products</a></li>
-								<li><a href="#">Services</a></li>
+								<li><a href="../index.php">Home</a></li>
+								<li><a href="../products">Products</a></li>
+								<li><a href="../services">Services</a></li>
 								<li><a href="#">About Us</a></li>
 							</ul>
 						</div>
@@ -86,49 +86,7 @@
 				<!--i created a page with all the product items here-->
 				<div class="products-wrapper">
 					<!-- ====================== -->
-					<!-- begin layout example 1 -->
-					<!-- ====================== -->
-					<h3>Item Layout Example v1</h3>
-					<div class="row">
-						<div class="col-xs-12 col-sm-6 col-md-3">
-							<div class="thumbnail">
-								<img src="../images/galaxy5.jpg" alt="product item"  style="width:210px; height:245px;"/>
-								<div class="caption">
-									<h4>Samsung Galaxy 5</h4>
-									<p>We offer the best price. Unlock phone. our price 449.00. Available colors white,blu and blac.</p>
-								</div>
-							</div>
-						</div>
-						<div class="col-xs-12 col-sm-6 col-md-3">
-							<div class="thumbnail">
-								<img src="../images/galaxy4.jpg" alt="product item"/>
-								<div class="caption">
-									<h4>Samsung Galaxy 4</h4>
-									<p> Limited time only. Free month of service for Simple mobile. Our price 299.00.</p>
-								</div>
-							</div>
-						</div>
-						<div class="col-xs-12 col-sm-6 col-md-3">
-							<div class="thumbnail">
-								<img src="../images/galaxy4.jpg" alt="product item"/>
-								<div class="caption">
-									<h4>Samsung Galaxy 4</h4>
-									<p>limited time only. Free month of service with Boost Mobile. Our price 289.00.</p>
-								</div>
-							</div>
-						</div>
-						<div class="col-xs-12 col-sm-6 col-md-3">
-							<div class="thumbnail">
-								<img src="../images/I-phone4.jpg" alt="product item"/>
-								<div class="caption">
-									<h4>I-Phone 4</h4>
-									<p> The best deal ever. 32 GB. Our lowest price 149.00. One month of service with Page Plus.</p>
-								</div>
-							</div>
-						</div>
-					</div>
 
-					<!-- ====================== -->
 					<!-- begin layout example 2 -->
 					<!-- uses custom classes    -->
 					<!-- ====================== -->
@@ -136,27 +94,68 @@
 					<div class="row">
 						<div class="col-xs-12 col-md-6">
 							<div class="thumbnail item-horiz">
-								<img src="../images/mexcandies.jpg" alt="product item"/>
+								<img src="../images/mazapanes.jpg" alt="product item"/>
 								<div class="caption">
 									<h4>Authentic Mexican Products</h4>
-									<p>The best Mexican candies. Always fresh.The best Prices. Whole Sale and Retail.</p>
+									<p>The best Mexican candies. Always fresh.The best Prices. Whole Sale and Retail. visit us </p>
 								</div>
 								<div class="clearfix"></div>
 							</div>
 						</div>
 						<div class="col-xs-12 col-md-6">
 							<div class="thumbnail item-horiz">
-								<img src="../images/mural-jarritos.jpg" alt="product item" style="width:545px; heigth:720px;"/>
+								<img src="../images/logo-imgs.jpg" alt="product item" style="width:545px; heigth:1920px;"/>
 								<div class="caption">
-									<h4> Refrescos Mexicanos</h4>
-									<p> The Mexican refresco is the best in the world. Made with real suger.We sell Manzanita Sol, Sidral Mundet, Fresca,Jarritos, Coconut water and more.
-										Our price 22.00 dollars case.Special prices for restaurnts and mobile food vendors. Call in advance to prepare your order</p>
+									<h4> Best companies</h4>
+									<p> We work with the best companies in order to provide to our customer the best service and value.We always try to help our customers. We try to find the best pla for every
+										customer because we understant that every customer is diferent.Call in advance to prepare your order</p>
 								</div>
 								<div class="clearfix"></div>
 							</div>
 						</div>
 					</div>
-
+							<!-- ====================== -->
+					<!-- begin layout example 1 -->
+					<!-- ====================== --
+					<!-- ====================== -->
+					<!-- begin layout example 2 -->
+					<!-- uses custom classes    -->
+					<!-- ====================== -->
+					<h3>About Arriba Mexico </h3>
+					<div class="row">
+						<div class="col-xs-12 col-md-6">
+							<div class="thumbnail item-horiz">
+								<img src="../images/servicio.jpg" alt="product item"/>
+								<div class="caption">
+									<h4>Customer service is our priority</h4>
+									<p>For us the customer satisfaction is our priority.  We want always to give the best value for your money. Always the best exchange rate.</p>
+								</div>
+								<div class="clearfix"></div>
+							</div>
+						</div>
+						<div class="col-xs-12 col-md-6">
+							<div class="thumbnail item-horiz">
+								<img src="../images/compliance.jpg" alt="product item" style="width:545px; heigth:2020px;"/>
+								<div class="caption">
+									<h3> Compliance</h3>
+									<p>Arriba Mexico is a Money service Bussinees that compliance with the anti-money laurenry aw and all the
+										laws reallted to the businee operation</p>
+									<h2> Contact Us</h2>
+									<li> Arriba Mexico</li>
+									<li> 121 Old Coors SW</li>
+									<li> ABL NM 87121</li>
+									<h3> By Fax</h3>
+									<li> Tel- Fax (505) 8395391</li>
+									<h3> By Phone</h3>
+									<li> Cellular (505) 3042018</li>
+									<li> cellular (505) 4892104</li>
+									<h3> By e-mail</h3>
+									<li> ferdinero1212@gmail.com</li>
+								</div>
+								<div class="clearfix"></div>
+							</div>
+						</div>
+					</div>
 
 				</div><!--.products-wrapper-->	</div><!--.container-->
 		</div><!--.site-content-->
@@ -164,7 +163,7 @@
 		<!--footer include-->
 		<footer class="footer">
 			<div class="container">
-				Footer Here
+				<?php require_once(dirname(__DIR__) . "/lib/footer.php"); ?>
 			</div>
 		</footer>
 	</body>
