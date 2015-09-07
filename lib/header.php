@@ -3,7 +3,7 @@
 		<div class="col-md-3">
 			<a class="home-link" href=".">
 				<span class=" title">
-				<img class="logo" src="images/bandera.jpg" alt="Arriba Mexico Logo"/>
+				<img class="logo" src="../images/bandera.jpg" alt="Arriba Mexico Logo"/>
 				Arriba Mexico
 				</span>
 			</a>

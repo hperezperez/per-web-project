@@ -46,7 +46,7 @@
 
 			<!--include <header> tag-->
 			<header>
-				<?php require_once("../lib/header.php"); ?>
+					<?php requiere_once("..lib/header.php");?>
 			</header>
 			<div class="container">
 				<!--I put the welcome message on top - full width-->
