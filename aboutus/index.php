@@ -1,85 +1,24 @@
+<?php
+$CURRENT_DIR = __DIR__;
+$PAGE_TITLE = "About US";
 
-<!DOCTYPE html>
-<html>
-	<head>
-		<meta charset="utf-8"/>
-		<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
-		<meta name="viewport" content="width=device-width, initial-scale=1"/>
+require_once(dirname(__DIR__) . "/lib/head-utils.php");
+?>
 
-		<!-- Bootstrap Latest compiled and minified CSS -->
-		<link type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet"/>
-
-		<!-- Optional Bootstrap theme -->
-		<link type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css" rel="stylesheet"/>
-
-		<!-- Font Awesome http://fontawesome.github.io/Font-Awesome/ -->
-		<link type="text/css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet"/>
-
-		<!-- Custom CSS @author:rlewis37@cnm.edu -->
-		<link type="text/css" href="../css/style.css" rel="stylesheet"/>
-
-		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-		<!--[if lt IE 9]>
-		<script type="text/javascript" src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-		<script type="text/javascript" src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-		<![endif]-->
-
-		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-		<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-		<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery.form/3.51/jquery.form.min.js"></script>
-		<script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.14.0/jquery.validate.min.js"></script>
-		<script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.14.0/additional-methods.min.js"></script>
-
-		<!-- Latest compiled and minified Bootstrap JavaScript, all compiled plugins included -->
-		<script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-
-		<!-- Custom JavaScript @author:rlewis37@cnm.edu -->
-		<script type="text/javascript" src="lib/js/javascripts.js"></script>
-
-		<!-- Page Title -->
-		<title>About Arriba Mexico</title>
-	</head>
 	<body class="site">
-		<div class="site-content">
 			<!--include the <head> tag-->
 
 			<!--include <header> tag-->
 			<header>
-				<div class="container">
-					<nav class="navbar">
+				<?php require_once("../lib/header.php"); ?>
 
-						<!-- logo and mobile toggle button get grouped together for better mobile display -->
-						<div class="navbar-header">
-
-							<!-- this is the mobile menu button -->
-							<button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target="#main-menu">
-								<span class="sr-only">main menu</span>
-								<span class="glyphicon glyphicon-menu-hamburger"></span>
-							</button>
-
-							<a class="navbar-brand" href="#">TianguisMexico.com</a>
-						</div>
-
-						<!-- here are your main nav links, grouped for toggling -->
-						<div class="collapse navbar-collapse" id="main-menu">
-							<ul class="nav navbar-nav navbar-right">
-								<li><a href="../index.php">Home</a></li>
-								<li><a href="../products">Products</a></li>
-								<li><a href="../services">Services</a></li>
-								<li><a href="#">About Us</a></li>
-							</ul>
-						</div>
-					</nav>
-				</div>
 			</header>
 			<div class="container">
 				<!--I put the welcome message on top - full width-->
 				<div class="row welcome-msg">
 					<div class="col-xs-12">
-						<h2>About Us</h2>
-						<p>We offer the best cellular phones at the best price. Craft beer +1 selvage, artisan occupy Etsy health goth mumblecore YOLO heirloom wayfarers slow-carb chambray fingerstache. Health goth synth viral messenger bag Pinterest, artisan YOLO selfies pug ugh. Tote bag selvage skateboard kale chips. Skateboard polaroid typewriter, cold-pressed Helvetica tousled roof party retro butcher crucifix pop-up salvia. Brooklyn cold-pressed whatever sartorial, butcher skateboard deep v pug typewriter four dollar toast actually flexitarian beard heirloom organic. Health goth wolf wayfarers, quinoa cornhole Vice tattooed Carles selvage.</p>
-						<p>See <a href="http://getbootstrap.com/components/#thumbnails-custom-content" target="_blank">Bootstrap Images Custom Content</a> documentation for reference on this layout.</p>
+						<h2><?php _("About Us"); ?></h2>
+						<p><?php _("We had been on bussiness for twenty years. We star with a simple idea \"serve our customers with the products and services that big retailers did not have it.\"First we specialice in the Mexican Market. Then We have to adjust to the changes with the time. Now, We offer the best cellular phones at the best price,finantial services, cellular services,and we still offer the best mexican products. Now as one branch of our business we had been founded Kronos web design company with the same philosophy of twenty years ago. \"serve our customer with the customize services that big companies do not provide\""); ?></p>
 					</div>
 				</div>
 				<hr>
@@ -161,10 +100,6 @@
 		</div><!--.site-content-->
 
 		<!--footer include-->
-		<footer class="footer">
-			<div class="container">
 				<?php require_once(dirname(__DIR__) . "/lib/footer.php"); ?>
-			</div>
-		</footer>
 	</body>
 </html>
