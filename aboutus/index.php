@@ -18,7 +18,7 @@ require_once(dirname(__DIR__) . "/lib/head-utils.php");
 				<div class="row welcome-msg">
 					<div class="col-xs-12">
 						<h2><?php _("About Us"); ?></h2>
-						<p><?php _("We had been on bussiness for twenty years. We star with a simple idea \"serve our customers with the products and services that big retailers did not have it.\"First we specialice in the Mexican Market. Then We have to adjust to the changes with the time. Now, We offer the best cellular phones at the best price,finantial services, cellular services,and we still offer the best mexican products. Now as one branch of our business we had been founded Kronos web design company with the same philosophy of twenty years ago. \"serve our customer with the customize services that big companies do not provide\""); ?></p>
+						<p><?php _("We had been on business for twenty years. We started with a simple idea serve our customers with the products and services that big retailers did not have it.First we specialize in the Mexican Market. Then, we have to adjust to the changes of the market. Now, We offer the best cellular phones,finantial services, cellular services,and we still offer the best mexican products. Now, we had been founded Kronos Web Design company with the same philosophy of twenty years ago."); ?></p>
 					</div>
 				</div>
 				<hr>
@@ -29,14 +29,14 @@ require_once(dirname(__DIR__) . "/lib/head-utils.php");
 					<!-- begin layout example 2 -->
 					<!-- uses custom classes    -->
 					<!-- ====================== -->
-					<h3>Mexican Products </h3>
+					<h3><?php _("Mexican Products");?> </h3>
 					<div class="row">
 						<div class="col-xs-12 col-md-6">
 							<div class="thumbnail item-horiz">
 								<img src="../images/mazapanes.jpg" alt="product item"/>
 								<div class="caption">
-									<h4>Authentic Mexican Products</h4>
-									<p>The best Mexican candies. Always fresh.The best Prices. Whole Sale and Retail. visit us </p>
+									<h4><?php _("Mexican Products");?></h4>
+									<p><?php _("The best mexican candies. Always fresh.The best Prices. Wholesale and Retail. Visit us");?> </p>
 								</div>
 								<div class="clearfix"></div>
 							</div>
@@ -45,9 +45,8 @@ require_once(dirname(__DIR__) . "/lib/head-utils.php");
 							<div class="thumbnail item-horiz">
 								<img src="../images/logo-imgs.jpg" alt="product item" style="width:545px; heigth:1920px;"/>
 								<div class="caption">
-									<h4> Best companies</h4>
-									<p> We work with the best companies in order to provide to our customer the best service and value.We always try to help our customers. We try to find the best pla for every
-										customer because we understant that every customer is diferent.Call in advance to prepare your order</p>
+									<h4><?php _(" The best companies");?></h4>
+									<p><?php _(" We work with the best companies in order to provide to our customers the best service and value.We always try to help our customers. We try to find the best wireless plan for ever customer. We understand that every customer is different.");?></p>
 								</div>
 								<div class="clearfix"></div>
 							</div>
@@ -60,14 +59,14 @@ require_once(dirname(__DIR__) . "/lib/head-utils.php");
 					<!-- begin layout example 2 -->
 					<!-- uses custom classes    -->
 					<!-- ====================== -->
-					<h3>About Arriba Mexico </h3>
+					<h3><?php _("About Arriba Mexico");?> </h3>
 					<div class="row">
 						<div class="col-xs-12 col-md-6">
 							<div class="thumbnail item-horiz">
 								<img src="../images/servicio.jpg" alt="product item"/>
 								<div class="caption">
-									<h4>Customer service is our priority</h4>
-									<p>For us the customer satisfaction is our priority.  We want always to give the best value for your money. Always the best exchange rate.</p>
+									<h4><?php _("Service is our priority");?></h4>
+									<p><?php _("For us the customer satisfaction is our priority.  We always want to give you the best value for your money. We guarantee the best exchange rate.");?></p>
 								</div>
 								<div class="clearfix"></div>
 							</div>
@@ -76,20 +75,20 @@ require_once(dirname(__DIR__) . "/lib/head-utils.php");
 							<div class="thumbnail item-horiz">
 								<img src="../images/compliance.jpg" alt="product item" style="width:545px; heigth:2020px;"/>
 								<div class="caption">
-									<h3> Compliance</h3>
-									<p>Arriba Mexico is a Money service Bussinees that compliance with the anti-money laurenry aw and all the
-										laws reallted to the businee operation</p>
-									<h2> Contact Us</h2>
-									<li> Arriba Mexico</li>
-									<li> 121 Old Coors SW</li>
-									<li> ABL NM 87121</li>
-									<h3> By Fax</h3>
-									<li> Tel- Fax (505) 8395391</li>
-									<h3> By Phone</h3>
-									<li> Cellular (505) 3042018</li>
-									<li> cellular (505) 4892104</li>
-									<h3> By e-mail</h3>
-									<li> ferdinero1212@gmail.com</li>
+									<h3><?php _("Compliance");?></h3>
+									<p><?php _("Arriba Mexico is a Money Services Business that compliance with the anti-money laundering laws and regulations
+										established by The US Dept of Treasury.");?></p>
+									<h2><?php _("Contact US"); ?></h2>
+									<li><?php _("Arriba Mexico");?></li>
+									<li><?php _("121 Old Coors SW ");?></li>
+									<li><?php _("Alb,NM 87121");?></li>
+									<h3><?php _("By fax");?></h3>
+									<li><?php _("Tel- Fax (505) 8395391");?></li>
+									<h3><?php _("By Phone");?></h3>
+									<li><?php _("Cellular (505) 3042018");?></li>
+									<li><?php _("Cellular (505) 4892104");?></li>
+									<h3><?php _("By e-mail");?></h3>
+									<li><?php _("ferdinero121312@gmail.com");?></li>
 								</div>
 								<div class="clearfix"></div>
 							</div>

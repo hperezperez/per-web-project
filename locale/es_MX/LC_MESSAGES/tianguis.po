@@ -1,0 +1,354 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Tianguis Mexicano\n"
+"Report-Msgid-Bugs-To: Humberto Perez Perez <hperezperez@cnm.edu>\n"
+"POT-Creation-Date: 2015-09-08 17:01-0600\n"
+"PO-Revision-Date: 2015-09-09 10:33-0600\n"
+"Last-Translator: Humberto Perez Perez <hperezperez@cnm.edu>\n"
+"Language-Team: Humberto Perez Perez <hperezperez@cnm.edu>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: aboutus/index.php:20
+msgid "About Us"
+msgstr "Acerca de Nosotros"
+
+#: aboutus/index.php:21
+msgid ""
+"We had been on business for twenty years. We started with a simple idea "
+"serve our customers with the products and services that big retailers did "
+"not have it.First we specialize in the Mexican Market. Then, we have to "
+"adjust to the changes of the market. Now, We offer the best cellular phones,"
+"finantial services, cellular services,and we still offer the best mexican "
+"products. Now, we had been founded Kronos Web Design company with the same "
+"philosophy of twenty years ago."
+msgstr "Hemos estado en el negocio por veinte a&ntilde;os.Empezamos con una idea simple"
+", servir a nuestros clientes con productos y servicios que los grandes minoristas"
+"no tienen. Primero, nos especializamos en el mercado mexicano. Despu&eacute;s,"
+" nos tuvimos que ajustar a los cambios del  mercado.Ahora, ofrecemos tel&eacute;fonos celulares"
+"servicios financieros, servicio de celulares, y aun ofrecemos los mejores "
+"productos mexicanos.Hoy hemos creado la compa&ntilde;ia Kronos de dise&ntilde;o de paginas del Internet"
+"con la misma filosofia de hace veinte a&ntilde;os."
+
+#: aboutus/index.php:32 aboutus/index.php:38 products/index.php:73
+msgid "Mexican Products"
+msgstr "Productos Mexicanos"
+
+#: aboutus/index.php:39
+msgid ""
+"The best mexican candies. Always fresh.The best Prices. Wholesale and "
+"Retail. Visit us"
+msgstr "Los mejores dulces	mexicanos.Siempre frescos. Los mejores precios. Mayoreo y menudeo."
+"Visitenos."
+
+#: aboutus/index.php:48
+msgid " The best companies"
+msgstr "Las mejores compa&ntilde;ias"
+
+#: aboutus/index.php:49
+msgid ""
+" We work with the best companies in order to provide to our customers the "
+"best service and value.We always try to help our customers. We try to find "
+"the best wireless plan for ever customer. We understand that every customer "
+"is different."
+msgstr "Trabajamos con las mejores compa&ntilde;ias para ofrecerle a nuestros clientes"
+"el mejor servicio y precio. Siempre tratamos  de ayudar a nuestros .."
+"Tratamos de encontrar el mejor plan celular para cada cliente. entendemos que cada"
+"cliente es diferente."
+
+#: aboutus/index.php:62
+msgid "About Arriba Mexico"
+msgstr "Acerca de Arriba M&eacute;xico"
+
+#: aboutus/index.php:68
+msgid "Service is our priority"
+msgstr "Servicio es nuestra prioridad"
+
+#: aboutus/index.php:69
+msgid ""
+"For us the customer satisfaction is our priority.  We always want to give "
+"you the best value for your money. We guarantee the best exchange rate."
+msgstr "Para nosotros la satisfacion de nuestros clientes es una prioridad."
+"Siempre le daremos el mejor servicio por su dinero. Le garantizamos el mejor "
+"tipo de cambio"
+
+#: aboutus/index.php:78
+msgid "Compliance"
+msgstr "Cumplimiento"
+
+#: aboutus/index.php:79
+msgid ""
+"Arriba Mexico is a Money Services Business that compliance with the anti-"
+"money laundering laws and regulations\n"
+"\t\t\t\t\t\t\t\t\t\testablished by The US Dept of Treasury."
+msgstr "Arriba M&eacute;xico es un negocio de servicios monetarios que cumple con"
+"las leyes de anti-lavado de dinero y las regulaciones puestas por el"
+"Departamento del Tesoro de Los Estados Unidos de America"
+
+#: aboutus/index.php:81
+msgid "Contact US"
+msgstr "Contactenos"
+
+#: aboutus/index.php:82
+msgid "Arriba Mexico"
+msgstr "Arriba M&eacute;xico"
+
+#: aboutus/index.php:83
+msgid "121 Old Coors SW "
+msgstr "121 Old Coors SW"
+
+#: aboutus/index.php:84
+msgid "Alb,NM 87121"
+msgstr "Alb,NM 87121"
+
+#: aboutus/index.php:85
+msgid "By fax"
+msgstr "Por fax"
+
+#: aboutus/index.php:86
+msgid "Tel- Fax (505) 8395391"
+msgstr "Tel-Fax (505) 8395391"
+
+#: aboutus/index.php:87
+msgid "By Phone"
+msgstr "Por Tel&eacute;fono"
+
+#: aboutus/index.php:88
+msgid "Cellular (505) 3042018"
+msgstr "Celular (505) 3042018"
+
+#: aboutus/index.php:89
+msgid "Cellular (505) 4892104"
+msgstr "Celular (505) 4892104"
+
+#: aboutus/index.php:90
+msgid "By e-mail"
+msgstr "Por e-mail"
+
+#: aboutus/index.php:91
+msgid "ferdinero121312@gmail.com"
+msgstr "ferdinero121312@gmail.com"
+
+#: services/index.php:19
+msgid "Services"
+msgstr "Servicios"
+
+#: services/index.php:20
+msgid ""
+"We offer money transfers, bill payment and check cashing. We are agents of "
+"Enramex, Afex and Orlandi Valuta. We receive money from all around the "
+"world. We use RIA agents network in 150 countries around the world.We "
+"accept  bill payments for all the companies, PNM, New Mexico gas, Comcast."
+msgstr "Le ofrecemos envios de dinero, pago de facturas y cambio de cheques."
+"Somos agentes de Enramex,Afex y Orlandi Valuta. Nosotros recibimos dinero de todo el mundo."
+"Usamos la red de pagadores de RIA en 150 paises alrededor del mundo"
+"Aceptamos pagos de facturas de todas las companias,PNM, Gas de Nuevo M&eacute;xico, Comcast."
+#: services/index.php:21 products/index.php:20
+msgid "See"
+msgstr "vea"
+
+#: services/index.php:21
+msgid "RIA Money transfers"
+msgstr "Envios de Dinero por RIA"
+
+#: services/index.php:21
+msgid "for more details and current exchange rate."
+msgstr "para mas detalles y tipo de cambio actual"
+
+#: services/index.php:30 services/index.php:80
+msgid "Financial Services"
+msgstr "Servicios Financieros"
+
+#: services/index.php:36
+msgid "Money Transfers Services"
+msgstr "Servicios de envios de Dinero"
+
+#: services/index.php:37
+msgid ""
+"Arriba Mexico offers money transfers services worldwide. We are approved by "
+"the State Deparment."
+msgstr "Arriba Mexico le ofrece  el servicio de envio de dinero  a todo el mundo."
+ "Estamos aprobados por el Departamento de Estado de EUA. "
+
+#: services/index.php:45
+msgid "Cashing checks"
+msgstr "Cambio de cheques"
+
+#: services/index.php:46
+msgid ""
+"We cash payroll and taxes checks at 2%.You need a valid type of ID with "
+"picture, phone number and address. To get a complete list of valid types of "
+"Ids contact us."
+msgstr " Cambiamos cheques de trabajo y de rembolso de impuestos al 2%. Ud necesita"
+"un Id con fotografia, n&uacute;mero de tel&eacute;fono y direcci&oacute;n. Para obtener una lista completa"
+"de Id permitidas contactenos"
+
+#: services/index.php:54
+msgid "Wireless Services"
+msgstr "Servicios de Celulares"
+
+#: services/index.php:55
+msgid ""
+"We offer the best services plans for cellulars, unlimited talk and texts "
+"with 4G LTE for $40.00."
+msgstr "Ofrecemos  los mejores planes de servicios para celulares, Servicio ilimitado"
+" con la red 4G LTE por  $40.00 "
+
+#: services/index.php:63
+msgid "Wireless Service"
+msgstr "Servicio Celular"
+
+#: services/index.php:64
+msgid ""
+"We offer the best network in US,4G LTE unlimited  talk and text for  40 dlls "
+"with Page Plus."
+msgstr "Le ofrecemos la mejor red en EU,con servicio ilimitado y 4g LTE por $40.00"
+"con Page PLUS"
+
+#: services/index.php:74
+msgid "Services of Arriba Mexico"
+msgstr "Servicios de Arriba Mexico"
+
+#: services/index.php:81
+msgid ""
+"Arriba Mexico provides Money Services Business.We have twenty years "
+"experience.We are registered with The Finantial Crimes\n"
+"\t\t\t\t\t\t\t\t\t\tEnforcement Network of IRS. And, we are approved by the "
+"US Department of Treasury."
+msgstr "Arriba Mexico le ofrece servicios de envios de dinero, cambio de cheques "
+"y pagos de facturas. Tenemos veinte anos de experinecia. Estamos registrados"
+"con FINCEN, la red de monitoreo de delitos  financieros del IRS. y estamos"
+"aprobados por el departament del Tesoro de EU."
+
+#: services/index.php:91
+msgid "Change service to one of our carriers"
+msgstr "Cambie de servicio a uno de nuestras compa&ntilde;ias"
+
+#: services/index.php:92
+msgid ""
+"We have the best prepaid plans. No contract. The Best prices  and plans."
+msgstr "Tenemos los mejores planes prepagados. No hay contrato. Los mejores precios y planes"
+
+#: services/index.php:93
+msgid "YOU CAN USE YOUR SAME DEVICE"
+msgstr " Ud puede usar su propio Tel$eacute;fono"
+
+#: services/index.php:94
+msgid " FREE PHONE."
+msgstr " TELEFONOS GRATIS"
+
+#: locale/index.php:25
+msgid "Welcome to Humberto's House of Cats"
+msgstr "Bienvenidos a la Casa de los gatos de Humberto"
+
+#: locale/index.php:29
+msgid "Cats Available"
+msgstr "Gatos disponibles"
+
+#: locale/index.php:32
+msgid "Arlo"
+msgstr "Arlo"
+
+#: locale/index.php:34
+msgid "Face it. Nobody is cuter than Arlo. Period!"
+msgstr "Aceptelo. Nadie es tan lindo como Arlo. Y Punto."
+
+
+#: index.php:15
+msgid "Best Mexican Products."
+msgstr "Los Mejores Productos Mexicanos"
+
+#: products/index.php:18
+msgid "Products"
+msgstr "Productos"
+
+#: products/index.php:19
+msgid ""
+"We offer the best cellphones at the best price. Also, we offer a great "
+"variety of mexican products, candies, pi&ntide;atas, herbs, mexican arts and "
+"crafts."
+msgstr "Le ofrecemos los mejores celulares al mejor precio.Tambien, le ofrecemos"
+"una gran variedad de productos mexicanos, dulces, pi&ntilde;atas,yerbas, artesanias"
+"mexicanas."
+
+#: products/index.php:20
+msgid "T-mobile web page"
+msgstr "p$aacute;gina de T-mobile"
+
+#: products/index.php:20
+msgid "to find plans and prices"
+msgstr "para encontrar planes y precios"
+
+#: products/index.php:35
+msgid "Galaxy 5"
+msgstr "Galaxy 5"
+
+#: products/index.php:36
+msgid ""
+"We offer the best price. Unlock phone. Our price $449.00. Available colors "
+"white,blue and black."
+msgstr "Le ofrecemos el mejor precio. Tel$eacute;fonos desbloqueados. Nuestro precio $449.00"
+"colores disponibles blanco,azul y negro."
+
+#: products/index.php:44
+msgid "Samsung Galaxy"
+msgstr "Samsung Galaxy"
+
+#: products/index.php:45
+msgid ""
+"Limited time offer. Free month of service for Simple mobile. Our price "
+"$299.00."
+msgstr "Oferta por tiempo limitado. Un mes gratis de servicio  con Simple Mobile"
+"Nuestro precio es $299.00"
+
+#: products/index.php:53
+msgid "Galaxy 4"
+msgstr "Galaxy 4"
+
+#: products/index.php:54
+msgid ""
+"Limited time offer. Free month of service with Boost Mobile. Our price "
+"$289.00."
+msgstr "Oferta por tiempo limitado. Un mes gratis de servicio  con Boost Mobile"
+"Nuestro precio es $299"
+
+#: products/index.php:62
+msgid "I-Phone 4"
+msgstr "I-phone"
+
+#: products/index.php:63
+msgid ""
+"The best deal ever. 32 GB. Our lowest price 149.00. Free month of service "
+"with Page Plus."
+msgstr "EL mejor negocio de todos los tiempos. 32 GB. Nuestro precio m&aacute;s bajo $149.00"
+"Un mes gratis de servicio con Page Plus"
+
+#: products/index.php:79
+msgid "Authentic Mexican Products"
+msgstr "Productos Mexicano Autenticos "
+
+#: products/index.php:80
+msgid ""
+"The best Mexican candies. Always fresh.The best Prices. Wholesale and retail."
+msgstr "Los mejores dulces mexicanos.Siempre frescos. Los mejores precios. Mayoreo y Menudeo."
+
+#: products/index.php:89
+msgid "Refrescos Mexicanos"
+msgstr "Refrescos Mexicanos"
+
+#: products/index.php:90
+msgid ""
+"The Mexican soft drink is the best in the world. Made with real sugar.We "
+"sell Manzanita Sol, Sidral Mundet, Fresca,Jarritos, Coconut water and more.\n"
+"\t\t\t\t\t\t\t\t\t Our price is $22.00 dollars per case.Special prices for "
+"restaurants and mobile food vendors. Call in advance to prepare your order"
+msgstr "El refresco mexicano es el mejor del mundo. Hecho con azucar de ca&ntilde;a."
+"Vendemos Manzanita Sol, Sidral Mundet, Fresca, Jaritos, Agua de coco y mas"
+"nuestro precio por caja es de $22.00 dolares"

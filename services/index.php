@@ -16,9 +16,9 @@ require_once(dirname(__DIR__) . "/lib/head-utils.php");
 				<!--I put the welcome message on top - full width-->
 				<div class="row welcome-msg">
 					<div class="col-xs-12">
-						<h2>Services</h2>
-						<p>We offer Money transfer, Bill Pay and Cashing checeks services. We are agents of Enramex, AFEX, Orlandi Valuta. We received money from all around the world. We use the network of RIA agents  in 150 countries around the work.  we accept payments for all the companies and services . PNM. New mexico gas, Comcast, Credit cards payments.</p>
-						<p>See <a href="http://Riamoneytranfers.com" target="_blank">RIA Money transfers</a> for more details and current exchange rate.</p>
+						<h2><?php _("Services");?></h2>
+						<p><?php _("We offer money transfers, bill payment and check cashing. We are agents of Enramex, Afex and Orlandi Valuta. We receive money from all around the world. We use RIA agents network in 150 countries around the world.We accept  bill payments for all the companies, PNM, New Mexico gas, Comcast.");?></p>
+						<p><?php _("See");?> <a href="http://Riamoneytranfers.com" target="_blank"><?php _("RIA Money transfers");?></a> <?php _("for more details and current exchange rate.");?></p>
 					</div>
 				</div>
 				<hr>
@@ -27,14 +27,14 @@ require_once(dirname(__DIR__) . "/lib/head-utils.php");
 					<!-- ====================== -->
 					<!-- begin layout example 1 -->
 					<!-- ====================== -->
-					<h3>Finantial Services </h3>
+					<h3><?php _("Financial Services");?> </h3>
 					<div class="row row-flex row-flex-wrap">
 						<div class="col-xs-12 col-sm-6 col-md-3">
 							<div class="thumbnail">
 								<img src="../images/moneygram.jpg" alt="product item"  style="width:240px; height:250px;"/>
 								<div class="caption">
-									<h4>Money Transfers Services</h4>
-									<p>Arriba Mexico offers money transfer services worlwide incluing US and Mexico. We are approved by the State Deparment. </p>
+									<h4><?php _("Money Transfers Services");?></h4>
+									<p><?php _("Arriba Mexico offers money transfers services worldwide. We are approved by the State Deparment.");?> </p>
 								</div>
 							</div>
 						</div>
@@ -42,8 +42,8 @@ require_once(dirname(__DIR__) . "/lib/head-utils.php");
 							<div class="thumbnail">
 								<img src="../images/ria.jpg" alt="product item"  style="width:180px; height:250px;"/>
 								<div class="caption">
-									<h4>Cashing checks</h4>
-									<p> We cash payroll checks and taxes checks, at 2%.You need valid ID with picture, phone number and address. to see a complet list of valid  Id accepted contact us.</p>
+									<h4><?php _("Cashing checks");?></h4>
+									<p><?php _("We cash payroll and taxes checks at 2%.You need a valid type of ID with picture, phone number and address. To get a complete list of valid types of Ids contact us.");?></p>
 								</div>
 							</div>
 						</div>
@@ -51,8 +51,8 @@ require_once(dirname(__DIR__) . "/lib/head-utils.php");
 							<div class="thumbnail">
 								<img src="../images/t-mobile-logo.jpg" alt="product item" style="width:210px; height:270px;"/>
 								<div class="caption">
-								<h4>Cellular Services</h4>
-									<p>We offer cellular services with the best plans. 50  dlls plan with Unlimited talk and texts.</p>
+								<h4><?php _("Wireless Services");?></h4>
+									<p><?php _("We offer the best services plans for cellulars, unlimited talk and texts with 4G LTE for $40.00.");?></p>
 								</div>
 							</div>
 						</div>
@@ -60,8 +60,8 @@ require_once(dirname(__DIR__) . "/lib/head-utils.php");
 							<div class="thumbnail">
 								<img src="../images/verizon-wireless-logo.jpg" alt="product item" style="width:220px; height:270px;" />
 								<div class="caption">
-									<h4>Cellular Services</h4>
-									<p>We offer the best network in US.4G LTE unlimited  talk and tex for  40 dlls throug Page Plus.</p>
+									<h4><?php _("Wireless Service");?></h4>
+									<p><?php _("We offer the best network in US,4G LTE unlimited  talk and text for  40 dlls with Page Plus.");?></p>
 								</div>
 							</div>
 						</div>
@@ -71,15 +71,15 @@ require_once(dirname(__DIR__) . "/lib/head-utils.php");
 					<!-- begin layout example 2 -->
 					<!-- uses custom classes    -->
 					<!-- ====================== -->
-					<h3>Services of Arriba Mexico</h3>
+					<h3><?php _("Services of Arriba Mexico");?></h3>
 						<div class="row row-flex row-flex-wrap">
 							<div class="col-xs-12 col-md-6">
 							<div class="thumbnail item-horiz">
 								<img src="../images/moneytranfers.jpg" alt="product item"/>
 								<div class="caption">
-									<h4>Finantial services</h4>
-									<p>Arriba Mexico provides Money Bussiness Services.We have 20 twenty years experience.We are register with FINCEN,Finantial crime
-										enforment network of IRS.And we are approved by the State Department.</p>
+									<h4><?php _("Financial Services");?></h4>
+									<p><?php _("Arriba Mexico provides Money Services Business.We have twenty years experience.We are registered with The Finantial Crimes
+										Enforcement Network of IRS. And, we are approved by the US Department of Treasury.");?></p>
 								</div>
 								<div class="clearfix"></div>
 							</div>
@@ -88,10 +88,10 @@ require_once(dirname(__DIR__) . "/lib/head-utils.php");
 							<div class="thumbnail item-horiz">
 								<img src="../images/promotioncell.jpg" alt="product item"/>
 								<div class="caption">
-									<h4>Change service to one of our carriers</h4>
-									<p> We have the best prepaid plans. No contract. The Best prices  and Plans.</p>
-									<h3> YOU CAN USE YOUR SAME DEVICE</h3>
-									<h2> Even more FREE PHONE.</h2>
+									<h4><?php _("Change service to one of our carriers");?></h4>
+									<p><?php _("We have the best prepaid plans. No contract. The Best prices  and plans.");?></p>
+									<h3><?php _("YOU CAN USE YOUR SAME DEVICE");?></h3>
+									<h2><?php _(" FREE PHONE.");?></h2>
 								</div>
 								<div class="clearfix"></div>
 							</div>

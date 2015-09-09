@@ -8,6 +8,21 @@ $CURRENT_DEPTH = substr_count($CURRENT_DIR, "/");
 $ROOT_DEPTH = substr_count($ROOT_PATH, "/");
 $DEPTH_DIFFERENCE = $CURRENT_DEPTH - $ROOT_DEPTH;
 $PREFIX = str_repeat("../", $DEPTH_DIFFERENCE);
+
+ini_set("display_errors", "On");
+if(session_status() !== PHP_SESSION_ACTIVE) {
+	session_start();
+}
+$locale = "es_MX";
+if(empty($_GET["locale"]) === false) {
+	$locale = filter_input(INPUT_GET, "locale", FILTER_SANITIZE_STRING);
+}
+putenv("LANG=" . $locale);
+setlocale(LC_ALL, $locale);
+$domain = "tianguis";
+bindtextdomain($domain, "$ROOT_PATH/locale");
+bind_textdomain_codeset($domain, "UTF-8");
+textdomain($domain);
 ?>
 <!DOCTYPE html>
 <html lang="en">
