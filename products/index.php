@@ -41,7 +41,7 @@ require_once(dirname(__DIR__) . "/lib/head-utils.php");
 							<div class="thumbnail">
 								<img src="../images/galaxy4.jpg" alt="product item"/>
 								<div class="caption">
-									<h4><?php _("Samsung Galaxy");?> 4</h4>
+									<h4><?php _("Samsung Galaxy");?>Samsung Galaxy 4</h4>
 									<p><?php _("Limited time offer. Free month of service for Simple mobile. Our price $299.00.");?></p>
 								</div>
 							</div>
