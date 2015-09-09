@@ -9,7 +9,7 @@ require_once(dirname(__DIR__) . "/lib/head-utils.php");
 
     			<!--include <header> tag-->
 			<header>
-				<?php require_once("../lib/header.php"); ?>
+				<?php require_once(dirname(__DIR__) . "/lib/header.php"); ?>
 			</header>
 			<div class="container">
 				<!--I put the welcome message on top - full width-->

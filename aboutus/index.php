@@ -75,8 +75,8 @@ require_once(dirname(__DIR__) . "/lib/head-utils.php");
 							<div class="thumbnail item-horiz">
 								<img src="../images/compliance.jpg" alt="product item" style="width:545px; heigth:2020px;"/>
 								<div class="caption">
-									<h3><?php _("Compliance");?></h3>
-									<p><?php _("Arriba Mexico is a Money Services Business that compliance with the anti-money laundering laws and regulations
+									<h3><?php echo _("Compliance");?></h3>
+									<p><?php echo _("Arriba Mexico is a Money Services Business that compliance with the anti-money laundering laws and regulations
 										established by The US Dept of Treasury.");?></p>
 									<h2><?php _("Contact US"); ?></h2>
 									<li><?php _("Arriba Mexico");?></li>
