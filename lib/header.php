@@ -1,4 +1,4 @@
-<div class="container" xmlns="http://www.w3.org/1999/html">
+<div class="container">
 	<div class="row">
 		<div class="col-md-3">
 			<a class="home-link" href=".">
@@ -13,7 +13,11 @@
 		</div>
 		<div class="col-md-6">
 			<ul class="nav nav-pills pull-right">
-				<li role="presentation"><a href="/profile">Espanol</a> </li>
+				<?php if($locale === "en_US") { ?>
+				<li role="presentation"><a href="<?php echo $_SERVER["PHP_SELF"] . "?locale=es_MX"; ?>">Espa&ntilde;ol</a> </li>
+				<?php } else { ?>
+				<li role="presentation"><a href="<?php echo $_SERVER["PHP_SELF"] . "?locale=en_US"; ?>">English</a> </li>
+				<?php } ?>
 				<li role="presentation"><a href="/services">Services</a></li>
 				<li role="presentation"><a href="/products">Products</a></li>
 				<li role="presentation"><a href="/aboutus">About Arriba Mexico</a></li>

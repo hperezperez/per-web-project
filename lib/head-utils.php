@@ -9,14 +9,21 @@ $ROOT_DEPTH = substr_count($ROOT_PATH, "/");
 $DEPTH_DIFFERENCE = $CURRENT_DEPTH - $ROOT_DEPTH;
 $PREFIX = str_repeat("../", $DEPTH_DIFFERENCE);
 
-ini_set("display_errors", "On");
-if(session_status() !== PHP_SESSION_ACTIVE) {
-	session_start();
-}
-$locale = "es_MX";
 if(empty($_GET["locale"]) === false) {
 	$locale = filter_input(INPUT_GET, "locale", FILTER_SANITIZE_STRING);
+} else if(empty($_SESSION["locale"]) === false) {
+	$locale = filter_input(INPUT_SESSION, "locale", FILTER_SANITIZE_STRING);
+} else {
+	$locale = "es";
 }
+$locale = strtolower(substr($locale, 0, 2));
+if($locale === "en") {
+	$locale = "en_US";
+} else {
+	$locale = "es_MX";
+}
+setcookie("locale", $locale, time() + 2592000, "/");
+
 putenv("LANG=" . $locale);
 setlocale(LC_ALL, $locale);
 $domain = "tianguis";

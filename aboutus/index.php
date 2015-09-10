@@ -30,8 +30,8 @@ require_once(dirname(__DIR__) . "/lib/head-utils.php");
 					<!-- uses custom classes    -->
 					<!-- ====================== -->
 					<h3><?php echo _("Mexican Products");?> </h3>
-					<div class="row">
-						<div class="col-xs-12 col-md-6">
+					<div class="row row-flex row-flex-wrap">
+						<div class="col-xs-12 col-md-4">
 							<div class="thumbnail item-horiz">
 								<img src="../images/mazapanes.jpg" alt="product item"/>
 								<div class="caption">
@@ -41,7 +41,7 @@ require_once(dirname(__DIR__) . "/lib/head-utils.php");
 								<div class="clearfix"></div>
 							</div>
 						</div>
-						<div class="col-xs-12 col-md-6">
+						<div class="col-xs-12 col-md-4">
 							<div class="thumbnail item-horiz">
 								<img src="../images/logo-imgs.jpg" alt="product item" style="width:545px; heigth:1920px;"/>
 								<div class="caption">
@@ -60,8 +60,8 @@ require_once(dirname(__DIR__) . "/lib/head-utils.php");
 					<!-- uses custom classes    -->
 					<!-- ====================== -->
 					<h3><?php echo _("About Arriba Mexico");?> </h3>
-					<div class="row">
-						<div class="col-xs-12 col-md-6">
+					<div class="row row-flex row-flex-wrap">
+						<div class="col-xs-12 col-md-4">
 							<div class="thumbnail item-horiz">
 								<img src="../images/servicio.jpg" alt="product item"/>
 								<div class="caption">
@@ -71,9 +71,9 @@ require_once(dirname(__DIR__) . "/lib/head-utils.php");
 								<div class="clearfix"></div>
 					 		</div>
 						</div>
-						<div class="col-xs-12 col-md-6">
+						<div class="col-xs-12 col-md-4">
 							<div class="thumbnail item-horiz">
-								<img src="../images/compliance.jpg" alt="product item" style="width:545px; heigth:2020px;"/>
+								<img src="../images/compliance.jpg" alt="product item" >
 								<div class="caption">
 									<h3><?php echo _("Compliance");?></h3>
 									<p><?php echo _("Arriba Mexico is a Money Services Business that compliance with the anti-money laundering laws and regulations established by the Us Dept of Treasury.");?></p>

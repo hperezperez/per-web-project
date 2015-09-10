@@ -66,11 +66,6 @@ require_once(dirname(__DIR__) . "/lib/head-utils.php");
 							</div>
 						</div>
 					</div>
-
-					<!-- ====================== -->
-					<!-- begin layout example 2 -->
-					<!-- uses custom classes    -->
-					<!-- ====================== -->
 					<h3><?php echo _("Services of Arriba Mexico");?></h3>
 						<div class="row row-flex row-flex-wrap">
 							<div class="col-xs-12 col-md-6">
