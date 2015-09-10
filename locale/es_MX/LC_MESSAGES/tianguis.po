@@ -60,7 +60,7 @@ msgstr ""
 
 #: aboutus/index.php:62
 msgid "About Arriba Mexico"
-msgstr "Acerca de Arriba M&eacute;xico"
+msgstr "Quien es Arriba M&eacute;xico"
 
 #: aboutus/index.php:68
 msgid "Service is our priority"
@@ -85,7 +85,7 @@ msgid ""
 "\t\t\t\t\t\t\t\t\t\testablished by The US Dept of Treasury."
 msgstr ""
 "Arriba M&eacute;xico es un negocio de servicios monetarios que cumple conlas leyes de anti-lavado de "
-"dinero y las regulaciones puestas por elDepartamento del Tesoro de Los Estados Unidos de America"
+"dinero y las regulaciones puestas por el Departamento del Tesoro de Los Estados Unidos de America"
 
 #: aboutus/index.php:81
 msgid "Contact US"
@@ -139,11 +139,11 @@ msgstr "Servicios"
 msgid ""
 "We offer money transfers, bill payment and check cashing. We are agents of Enramex, Afex and Orlandi "
 "Valuta. We receive money from all around the world. We use RIA agents network in 150 countries around the "
-"world.We accept  bill payments for all the companies, PNM, New Mexico gas, Comcast."
+"world. We accept  bill payments for all the companies, PNM, New Mexico gas, Comcast."
 msgstr ""
 "Le ofrecemos envios de dinero, pago de facturas y cambio de cheques.Somos agentes de Enramex,Afex y "
 "Orlandi Valuta. Nosotros recibimos dinero de todo el mundo.Usamos la red de pagadores de RIA en 150 "
-"paises alrededor del mundoAceptamos pagos de facturas de todas las companias,PNM, Gas de Nuevo M&eacute;"
+"paises alrededor del mundo. Aceptamos pagos de facturas de todas las companias,PNM, Gas de Nuevo M&eacute;"
 "xico, Comcast."
 
 #: services/index.php:21 products/index.php:20
@@ -213,8 +213,8 @@ msgid ""
 "\t\t\t\t\t\t\t\t\t\tEnforcement Network of IRS. And, we are approved by the US Department of Treasury."
 msgstr ""
 "Arriba Mexico le ofrece servicios de envios de dinero, cambio de cheques y pagos de facturas. Tenemos "
-"veinte anos de experinecia. Estamos registradoscon FINCEN, la red de monitoreo de delitos  financieros "
-"del IRS. y estamosaprobados por el departament del Tesoro de EU."
+"veinte a&ntilde;os de experinecia. Estamos registrados con FINCEN, la red de monitoreo de delitos  financieros "
+"del IRS. y estamos aprobados por el departament del Tesoro de EU."
 
 #: services/index.php:91
 msgid "Change service to one of our carriers"
@@ -226,7 +226,7 @@ msgstr "Tenemos los mejores planes prepagados. No hay contrato. Los mejores prec
 
 #: services/index.php:93
 msgid "YOU CAN USE YOUR SAME DEVICE"
-msgstr " Ud puede usar su propio Tel$eacute;fono"
+msgstr " Ud puede usar su propio Tel&eacute;fono"
 
 #: services/index.php:94
 msgid " FREE PHONE."

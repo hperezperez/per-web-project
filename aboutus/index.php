@@ -66,7 +66,7 @@ require_once(dirname(__DIR__) . "/lib/head-utils.php");
 								<img src="../images/servicio.jpg" alt="product item"/>
 								<div class="caption">
 									<h4><?php echo _("Service is our priority");?></h4>
-									<p><?php echo _("For us the customer satisfaction is our priority.  We always want to give you the best value for your 											money. We guarantee the best exchange rate.");?></p>
+									<p><?php echo _("For us the customer satisfaction is our priority.  We always want to give you the best value for your money. We guarantee the best exchange rate.");?></p>
 								</div>
 								<div class="clearfix"></div>
 					 		</div>
@@ -76,7 +76,7 @@ require_once(dirname(__DIR__) . "/lib/head-utils.php");
 								<img src="../images/compliance.jpg" alt="product item" style="width:545px; heigth:2020px;"/>
 								<div class="caption">
 									<h3><?php echo _("Compliance");?></h3>
-									<p><?php echo _("Arriba Mexico is a Money Services Business that compliance with the anti-money laundering laws and  												regulations	established by The US Dept of Treasury.");?></p>
+									<p><?php echo _("Arriba Mexico is a Money Services Business that compliance with the anti-money laundering laws and regulations established by the Us Dept of Treasury.");?></p>
 									<h2><?php echo _("Contact US"); ?></h2>
 									<li><?php echo _("Arriba Mexico");?></li>
 									<li><?php echo _("121 Old Coors SW ");?></li>

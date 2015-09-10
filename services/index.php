@@ -34,7 +34,7 @@ require_once(dirname(__DIR__) . "/lib/head-utils.php");
 								<img src="../images/moneygram.jpg" alt="product item"  style="width:240px; height:250px;"/>
 								<div class="caption">
 									<h4><?php echo _("Money Transfers Services");?></h4>
-									<p><?php echo _("Arriba Mexico offers money transfers services worldwide. We are approved by the State Deparment.");?> </p>
+									<p><?php echo _("Arriba Mexico offers money transfers services worldwide. We are approved by the State Department.");?> </p>
 								</div>
 							</div>
 						</div>
