@@ -12,7 +12,7 @@ require_once("lib/head-utils.php");
 				<div class="container">
 					<div class="row">
 					 <div class="col-md-12">
-						<h1 class="search-main-h1"><?php _("Best Mexican Products.");?></h1>
+						<h1 class="search-main-h1"><?php echo _("Best Mexican Products.");?></h1>
 					 </div>
 				 </div>
 				<div class="row">
