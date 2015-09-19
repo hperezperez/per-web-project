@@ -80,7 +80,7 @@ require_once(dirname(__DIR__) . "/lib/head-utils.php");
 									<h2><?php echo _("Contact US"); ?></h2>
 									<li><?php echo _("Arriba Mexico");?></li>
 									<li><?php echo _("121 Old Coors SW ");?></li>
-									<li><?php echo _("Alb,NM 87121");?></li>
+									<li><?php echo _("Alb,NM 87121");?></li>   
 									<h3><?php echo _("By fax");?></h3>
 									<li><?php echo _("Tel- Fax (505) 8395391");?></li>
 									<h3><?php echo _("By Phone");?></h3>

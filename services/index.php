@@ -91,10 +91,36 @@ require_once(dirname(__DIR__) . "/lib/head-utils.php");
 								<div class="clearfix"></div>
 							</div>
 						</div>
+						</div>
+
+
+				</d<h3><?php echo _("Services of Arriba Mexico");?></h3>
+					<div class="row row-flex row-flex-wrap">
+						<div class="col-xs-12 col-md-6">
+							<div class="thumbnail item-horiz">
+								<img src="../images/zumba.jpg" alt="product item"/>
+								<div class="caption">
+									<h4><?php echo _("Fitness Services");?></h4>
+									<p><?php echo _("Arriba Mexico provides Zumba and RIPPED classes Business.We just start to offers this service. We have certified instructors for Zumba and RIPPED
+										Classes every day from 6 to 7 pm and 7 to 8 pm. If you need a personal trainer call us to make an apoitment .");?></p>
+								</div>
+								<div class="clearfix"></div>
+							</div>
+						</div>
+						<div class="col-xs-12 col-md-6">
+							<div class="thumbnail item-horiz">
+								<img src="../images/kickboxing.jpg" alt="product item"/>
+								<div class="caption">
+									<h4><?php echo _("With our personalized program of kickboxing  and RIPPED we guaranted amazing results");?></h4>
+									<p><?php echo _("Con el programa personalizado de Kickboxing y RIPPED le garantizamos una figura fenomenal");?></p>
+									<h3><?php echo _("YOU CAN DO IT");?></h3>
+									<h2><?php echo _(" FREE CLASS.");?></h2>
+								</div>
+								<div class="clearfix"></div>
+							</div>
+						</div>
 					</div>
-
-
-				</div><!--.products-wrapper-->
+					</div><!--.products-wrapper-->
 			</div><!--.container-->
 		</div><!--.site-content-->
 
