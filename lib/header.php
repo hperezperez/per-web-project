@@ -23,6 +23,7 @@
 				<li role="presentation"><a href="/">Home</a> </li>
 				<li role="presentation"><a href="/services">Services</a></li>
 				<li role="presentation"><a href="/products">Products</a></li>
+				<li role="presentation"><a href="/revista">Revista</a></li>
 				<li role="presentation"><a href="/aboutus">About Arriba Mexico</a></li>
 			</ul>
 		</div>
