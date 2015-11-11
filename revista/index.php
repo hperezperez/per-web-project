@@ -27,14 +27,15 @@ require_once(dirname(__DIR__) . "/lib/head-utils.php");
 			<!-- ====================== -->
 			<!-- begin layout example 1 -->
 			<!-- ====================== -->
-			<h3><?php echo _("Financial Services");?> </h3>
+			<h3><?php echo _(" Services");?> </h3>
 			<div class="row row-flex row-flex-wrap">
 				<div class="col-xs-12 col-sm-6 col-md-3">
 					<div class="thumbnail">
 						<img src="../images/cafemaria.jpg" alt="product item"  style="width:240px; height:250px;"/>
 						<div class="caption">
 							<h4><?php echo _("COFFE SHOP");?></h4>
-							<p><?php echo _("LilyMarie's COFFE COMPANY is the first roaster and specialty coffe company in the South Valley");?> </p>
+							<p><?php echo _("LilyMarie's COFFE COMPANY is the first roaster and specialty coffe company in the South Valley.Visit us at
+							                  640 Old Coors SW, Alb. NM 87121. Tel 505- 585-5622");?> </p>
 
 						</div>
 					</div>
