@@ -18,7 +18,7 @@ require_once(dirname(__DIR__) . "/lib/head-utils.php");
 			<div class="col-xs-12">
 				<h2><?php echo _("Anuncios CLasificados");?></h2>
 				<p><?php echo _("The best businesses in New Mexico. ");?></p>
-				<p><?php echo _("See");?> <a href="http://Riamoneytranfers.com" target="_blank"><?php echo _("RIA Money transfers");?></a> <?php echo _("for more details and current exchange rate.");?></p>
+				<p><?php echo _("See");?> <a href="http://Afexamoneytranfers.com" target="_blank"><?php echo _("RIA Money transfers");?></a> <?php echo _("for more details and current exchange rate.");?></p>
 			</div>
 		</div>
 		<hr>
@@ -42,10 +42,11 @@ require_once(dirname(__DIR__) . "/lib/head-utils.php");
 				</div>
 				<div class="col-xs-12 col-sm-6 col-md-3">
 					<div class="thumbnail">
-						<img src="../images/ria.jpg" alt="product item"  style="width:180px; height:250px;"/>
+						<img src="../images/terrenoriorancho.jpg" alt="product item"  style="width:180px; height:250px;"/>
 						<div class="caption">
-							<h4><?php echo  _("Cashing checks");?></h4>
-							<p><?php echo _("We cash payroll and taxes checks at 2%.You need a valid type of ID with picture, phone number and address. To get a complete list of valid types of Ids contact us.");?></p>
+							<h4><?php echo  _("Land for Sale");?></h4>
+							<p><?php echo _("We sale one piece of land in Rio Rancho NM Life time opportunity only 5000.00 dollars
+							                 Call 505 3042018");?></p>
 						</div>
 					</div>
 				</div>
@@ -85,10 +86,11 @@ require_once(dirname(__DIR__) . "/lib/head-utils.php");
 					<div class="thumbnail item-horiz">
 						<img src="../images/promotioncell.jpg" alt="product item"/>
 						<div class="caption">
-							<h4><?php echo _("Change service to one of our carriers");?></h4>
-							<p><?php echo _("We have the best prepaid plans. No contract. The Best prices  and plans.");?></p>
-							<h3><?php echo _("YOU CAN USE YOUR SAME DEVICE");?></h3>
-							<h2><?php echo _(" FREE PHONE.");?></h2>
+							<h4><?php echo _("A Reliable Roof, LLC");?></h4>
+							<p><?php echo _(" Lic# 350432");?></p>
+							<h3><?php echo _(" TPO Specialists and Modified Bitumen");?></h3>
+							<h2><?php echo _(" Metal Propanel, Shingles,Title, EPDM.");?></h2>
+							<h2><?php echo _("Phone(505) 250-2171  Owner Ramiro Flores");?></h2>
 						</div>
 						<div class="clearfix"></div>
 					</div>

@@ -17,8 +17,8 @@ require_once(dirname(__DIR__) . "/lib/head-utils.php");
 				<div class="row welcome-msg">
 					<div class="col-xs-12">
 						<h2><?php echo _("Services");?></h2>
-						<p><?php echo _("We offer money transfers, bill payment and check cashing. We are agents of Enramex, Afex and Orlandi Valuta. We receive money from all around the world. We use RIA agents network in 150 countries around the world.We accept  bill payments for all the companies, PNM, New Mexico gas, Comcast.");?></p>
-						<p><?php echo _("See");?> <a href="http://Riamoneytranfers.com" target="_blank"><?php echo _("RIA Money transfers");?></a> <?php echo _("for more details and current exchange rate.");?></p>
+						<p><?php echo _("We offer money transfers, bill payment and check cashing. We are agents of Enramex, Afex . We receive money from all around the world. We use Afex agents network in 150 countries around the world.We accept  bill payments for all the companies, PNM, New Mexico gas, Comcast.");?></p>
+						<p><?php echo _("See");?> <a href="http://Afexmoneytranfers.com" target="_blank"><?php echo _("RIA Money transfers");?></a> <?php echo _("for more details and current exchange rate.");?></p>
 					</div>
 				</div>
 				<hr>
@@ -31,7 +31,7 @@ require_once(dirname(__DIR__) . "/lib/head-utils.php");
 					<div class="row row-flex row-flex-wrap">
 						<div class="col-xs-12 col-sm-6 col-md-3">
 							<div class="thumbnail">
-								<img src="../images/moneygram.jpg" alt="product item"  style="width:240px; height:250px;"/>
+								<img src="../images/enramex.jpg" alt="product item"  style="width:240px; height:250px;"/>
 								<div class="caption">
 									<h4><?php echo _("Money Transfers Services");?></h4>
 									<p><?php echo _("Arriba Mexico offers money transfers services worldwide. We are approved by the State Department.");?> </p>
