@@ -84,7 +84,7 @@ require_once(dirname(__DIR__) . "/lib/head-utils.php");
 				</div>
 				<div class="col-xs-12 col-md-6">
 					<div class="thumbnail item-horiz">
-						<img src="../images/promotioncell.jpg" alt="product item"/>
+						<img src="../images/house_before_after.jpg" alt="product item"/>
 						<div class="caption">
 							<h4><?php echo _("A Reliable Roof, LLC");?></h4>
 							<p><?php echo _(" Lic# 350432");?></p>
