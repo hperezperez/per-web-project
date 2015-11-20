@@ -52,10 +52,12 @@ require_once(dirname(__DIR__) . "/lib/head-utils.php");
 				</div>
 				<div class="col-xs-12 col-sm-6 col-md-3">
 					<div class="thumbnail">
-						<img src="../images/t-mobile-logo.jpg" alt="product item" style="width:210px; height:270px;"/>
+						<img src="../images/tortugaleria.jpg" alt="product item" style="width:210px; height:270px;"/>
 						<div class="caption">
-							<h4><?php echo _("Wireless Services");?></h4>
-							<p><?php echo _("We offer the best services plans for cellulars, unlimited talk and texts with 4G LTE for $40.00.");?></p>
+							<h4><?php echo  _("TORTUGA GALLERY");?></h4>
+							<p><?php echo  _("A SPACE FOR COMMUNITY ART AND PERFORMANCE");?></p>
+			 				<p><?php echo  _("901 Edith Blvd SE  ALB.NM 87102");?></p>
+							<p><?php echo _("See");?><a href="http://tortugagallery.org" target="_blank"><?php echo _("tortugagallery.org");?></p>
 						</div>
 					</div>
 				</div>
