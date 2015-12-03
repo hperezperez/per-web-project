@@ -57,29 +57,33 @@ require_once(dirname(__DIR__) . "/lib/head-utils.php");
 							<h4><?php echo  _("TORTUGA GALLERY");?></h4>
 							<p><?php echo  _("A SPACE FOR COMMUNITY ART AND PERFORMANCE");?></p>
 			 				<p><?php echo  _("901 Edith Blvd SE  ALB.NM 87102");?></p>
-							<p><?php echo _("See");?><a href="http://tortugagallery.org" target="_blank"><?php echo _("tortugagallery.org");?></p>
+							<p><?php echo _("See");?><a href="http://tortugagallery.org" target="_blank">
+								<?php echo _("tortugagallery.org");?></p>
 						</div>
 					</div>
 				</div>
 				<div class="col-xs-12 col-sm-6 col-md-3">
 					<div class="thumbnail">
-						<img src="../images/verizon-wireless-logo.jpg" alt="product item" style="width:220px; height:270px;" />
+						<img src="../images/solar.jpg" alt="product item" style="width:220px; height:270px;" />
 						<div class="caption">
-							<h4><?php echo _("Wireless Service");?></h4>
-							<p><?php echo _("We offer the best network in US,4G LTE unlimited  talk and text for  40 dlls with Page Plus.");?></p>
+							<h4><?php echo _("Solar energy");?></h4>
+							<p><?php echo _("We offer the best service on solar energy. Affordable price    ");?></p>
 						</div>
 					</div>
-				</div>
+			 	</div>
 			</div>
-			<h3><?php echo _("Services of Furniture for You");?></h3>
-			<div class="row row-flex row-flex-wrap">
+			<h3><?php echo _("Solar  Works Energy");?></h3>
+		  	<div class="row row-flex row-flex-wrap">
 				<div class="col-xs-12 col-md-6">
 					<div class="thumbnail item-horiz">
-						<img src="../images/muebles.jpg" alt="product item"/>
+						<img src="../images/solar.jpg" alt="product item"/>
 						<div class="caption">
-							<h4><?php echo _("Furniture For You");?></h4>
-							<p><?php echo _("Furniture For You is a new store .We have twenty years experi.We are registered with The Finantial Crimes
-										Enforcement Network of IRS. And, we are approved by the US Department of Treasury.");?></p>
+							<h4><?php echo _("Solar Works Energy");?></h4>
+							<p><?php echo _("La compania Solar Works Energy  instala paneles solares
+							                 en su casa. Empieze a  ahorrar dinero desde el primer dia y no pague nada
+							                 para ponerlos en su techo. Contacte a Ryan Wallace at (505) 4156172 or  e-mail
+							                 ryan.wallace@solarworksenergy.com
+										");?></p>
 						</div>
 						<div class="clearfix"></div>
 					</div>
@@ -100,7 +104,7 @@ require_once(dirname(__DIR__) . "/lib/head-utils.php");
 			</div>
 
 
-			</d<h3><?php echo _("Services of Arriba Mexico");?></h3>
+			<h3><?php echo _("Services of Arriba Mexico");?></h3>
 			<div class="row row-flex row-flex-wrap">
 				<div class="col-xs-12 col-md-6">
 					<div class="thumbnail item-horiz">
@@ -128,7 +132,7 @@ require_once(dirname(__DIR__) . "/lib/head-utils.php");
 			</div>
 		</div><!--.products-wrapper-->
 	</div><!--.container-->
-	</div><!--.site-content-->
+  </div>	<!--.site-content-->
 
 	<!--footer include-->
 	<?php require_once(dirname(__DIR__) . "/lib/footer.php"); ?>
