@@ -16,7 +16,7 @@ require_once(dirname(__DIR__) . "/lib/head-utils.php");
 		<!--I put the welcome message on top - full width-->
 		<div class="row welcome-msg">
 			<div class="col-xs-12">
-				<h2><?php echo _("Anuncios CLasificados");?></h2>
+				<h2><?php echo _("Anuncios Clasificados");?></h2>
 				<p><?php echo _("The best businesses in New Mexico. ");?></p>
 				<p><?php echo _("See");?> <a href="http://Afexamoneytranfers.com" target="_blank"><?php echo _("RIA Money transfers");?></a> <?php echo _("for more details and current exchange rate.");?></p>
 			</div>
@@ -33,44 +33,45 @@ require_once(dirname(__DIR__) . "/lib/head-utils.php");
 					<div class="thumbnail">
 						<img src="../images/cafemaria.jpg" alt="product item"  style="width:240px; height:250px;"/>
 						<div class="caption">
-							<h4><?php echo _("COFFE SHOP");?></h4>
-							<p><?php echo _("LilyMarie's COFFE COMPANY is the first roaster and specialty coffe company in the South Valley.Visit us at
-							                  640 Old Coors SW, Alb. NM 87121. Tel 505- 585-5622");?> </p>
-
+							<h4><?php echo _("Coffee Shop");?></h4>
+							<p><?php echo _("Lily Marie's Company is the first roaster and specialty coffee company in
+							                 in the South Valley.");?> </p>
+							<p><?php echo _("Visit us at 640 Old Coors SW B ALB. NM. 87105");?></p>
+							<p><?php echo _("Call us at (505) 585-5622");?></p>
 						</div>
 					</div>
 				</div>
 				<div class="col-xs-12 col-sm-6 col-md-3">
 					<div class="thumbnail">
-						<img src="../images/terrenoriorancho.jpg" alt="product item"  style="width:180px; height:250px;"/>
+						<img src="../images/tortugaleria.jpg" alt="product item"  style="width:180px; height:250px;"/>
 						<div class="caption">
-							<h4><?php echo  _("Land for Sale");?></h4>
-							<p><?php echo _("We sale one piece of land in Rio Rancho NM Life time opportunity only 5000.00 dollars
-							                 Call 505 3042018");?></p>
+							<h4><?php echo  _("Tortuga Gallery");?></h4>
+							<p><?php echo _("A space for Community Art  & Performance.");?></p>
+							<p><?php echo _("901 Edith Blvd SE . Alb. NM> 87102");?></p>
+							<p><?php echo _("Call us  at (505) 506-0820 ");?></p>
+							<p><?php echo _("tortuga.gallery.abq@gmail.com");?></p>
 						</div>
 					</div>
 				</div>
 				<div class="col-xs-12 col-sm-6 col-md-3">
 					<div class="thumbnail">
-						<img src="../images/tortugaleria.jpg" alt="product item" style="width:210px; height:270px;"/>
+						<img src="../images/t-mobile-logo.jpg" alt="product item" style="width:210px; height:270px;"/>
 						<div class="caption">
-							<h4><?php echo  _("TORTUGA GALLERY");?></h4>
-							<p><?php echo  _("A SPACE FOR COMMUNITY ART AND PERFORMANCE");?></p>
-			 				<p><?php echo  _("901 Edith Blvd SE  ALB.NM 87102");?></p>
-							<p><?php echo _("See");?><a href="http://tortugagallery.org" target="_blank">
-								<?php echo _("tortugagallery.org");?></p>
+							<h4><?php echo _("Wireless Services");?></h4>
+							<p><?php echo _("We offer the best services plans for cellulars, unlimited talk and texts with 4G LTE for $40.00.");?></p>
 						</div>
 					</div>
 				</div>
 				<div class="col-xs-12 col-sm-6 col-md-3">
 					<div class="thumbnail">
-						<img src="../images/solar.jpg" alt="product item" style="width:220px; height:270px;" />
+						<img src="../images/terrenoriorancho.jpg" alt="product item" style="width:220px; height:270px;" />
 						<div class="caption">
-							<h4><?php echo _("Solar energy");?></h4>
-							<p><?php echo _("We offer the best service on solar energy. Affordable price    ");?></p>
+							<h4><?php echo _("Land for Sale");?></h4>
+							<p><?php echo _("We sale  one piece of land in Rio Rancho NM. Life time opportunity.");?></p>
+							<p><?php echo _("Call us at (505) 304-2018");?></p>
 						</div>
 					</div>
-			 	</div>
+				</div>
 			</div>
 			<h3><?php echo _("Solar  Works Energy");?></h3>
 		  	<div class="row row-flex row-flex-wrap">
@@ -78,12 +79,12 @@ require_once(dirname(__DIR__) . "/lib/head-utils.php");
 					<div class="thumbnail item-horiz">
 						<img src="../images/solar.jpg" alt="product item"/>
 						<div class="caption">
-							<h4><?php echo _("Solar Works Energy");?></h4>
-							<p><?php echo _("La compania Solar Works Energy  instala paneles solares
+							<h1><?php echo _("Solar Works Energy");?></h1>
+							<h3><?php echo _("La compania Solar Works Energy  instala paneles solares
 							                 en su casa. Empieze a  ahorrar dinero desde el primer dia y no pague nada
 							                 para ponerlos en su techo. Contacte a Ryan Wallace at (505) 4156172 or  e-mail
 							                 ryan.wallace@solarworksenergy.com
-										");?></p>
+										");?></h3>
 						</div>
 						<div class="clearfix"></div>
 					</div>
@@ -130,6 +131,7 @@ require_once(dirname(__DIR__) . "/lib/head-utils.php");
 					</div>
 				</div>
 			</div>
+
 		</div><!--.products-wrapper-->
 	</div><!--.container-->
   </div>	<!--.site-content-->
