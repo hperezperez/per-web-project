@@ -73,8 +73,38 @@ require_once(dirname(__DIR__) . "/lib/head-utils.php");
 					</div>
 				</div>
 			</div>
-			<h3><?php echo _("Solar  Works Energy");?></h3>
+			<h3><?php echo _("Tortilleria La Poblana");?></h3>
 		  	<div class="row row-flex row-flex-wrap">
+				<div class="col-xs-12 col-md-6">
+					<div class="thumbnail item-horiz">
+						<img src="../images/solar.jpg" alt="product item"/>
+						<div class="caption">
+							<h1><?php echo _("Las mejores tortillas y masa de Albuquerque ");?></h1>
+							<h3><?php echo _("La Tortilleria La Poblana le ofrece en estas fiestas navidenas
+							                 la mejor masa preparada para tamales.Ademas Hojas y chiles secos.
+							                 Le brindamos el mejor servicio a restaurantes. Hablenos al (505) 352-8880
+							                 o visitenos en el 143A de La Old Coors SW en ALbuquerque. NM. 87121
+										");?></h3>
+						</div>
+						<div class="clearfix"></div>
+					</div>
+				</div>
+				<div class="col-xs-12 col-md-6">
+					<div class="thumbnail item-horiz">
+						<img src="../images/house_before_after.jpg" alt="product item"/>
+						<div class="caption">
+							<h4><?php echo _("A Reliable Roof, LLC");?></h4>
+							<p><?php echo _(" Lic# 350432");?></p>
+							<h3><?php echo _(" TPO Specialists and Modified Bitumen");?></h3>
+							<h2><?php echo _(" Metal Propanel, Shingles,Title, EPDM.");?></h2>
+							<h2><?php echo _("Phone(505) 250-2171  Owner Ramiro Flores");?></h2>
+						</div>
+						<div class="clearfix"></div>
+					</div>
+				</div>
+			</div>
+			<h3><?php echo _("Solar  Works Energy");?></h3>
+			<div class="row row-flex row-flex-wrap">
 				<div class="col-xs-12 col-md-6">
 					<div class="thumbnail item-horiz">
 						<img src="../images/solar.jpg" alt="product item"/>
@@ -103,6 +133,7 @@ require_once(dirname(__DIR__) . "/lib/head-utils.php");
 					</div>
 				</div>
 			</div>
+
 
 
 			<h3><?php echo _("Services of Arriba Mexico");?></h3>
