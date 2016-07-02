@@ -67,7 +67,7 @@ require_once(dirname(__DIR__) . "/lib/head-utils.php");
 						<img src="../images/terrenoriorancho.jpg" alt="product item" style="width:220px; height:270px;" />
 						<div class="caption">
 							<h4><?php echo _("Land for Sale");?></h4>
-							<p><?php echo _("We sale  one piece of land in Rio Rancho NM. Life time opportunity.");?></p>
+							<p><?php echo _("We sale  one piece of land in Rio Rancho NM. Life time opportunity.Only 20,000");?></p>
 							<p><?php echo _("Call us at (505) 304-2018");?></p>
 						</div>
 					</div>
